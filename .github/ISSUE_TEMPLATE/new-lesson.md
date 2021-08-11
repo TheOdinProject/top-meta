@@ -25,5 +25,5 @@ This is the definition of success. If the requirements here are not met, the wor
   - [ ] Assignment(optional) a list of resources to consume.
   - [ ] Practice(optional) 
   - [ ] 'Additional Resources' (should exist even if it's blank)
-  - [ ] 'Knowledge Check' (specific questions to test knowledge. Has details. Doesn't just parrot the Learnign Outcomes. More of a spot-check, doesn't need to be exhaustive)
+  - [ ] 'Knowledge Check' (specific questions to test knowledge. Has details. Doesn't just parrot the Learning Outcomes. More of a spot-check, doesn't need to be exhaustive)
 - [ ] Lesson has been run through a spell-checker
