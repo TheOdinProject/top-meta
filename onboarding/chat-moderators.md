@@ -1,5 +1,5 @@
 # Chat Moderators
-_This document will serve as the entry point to chat moderation in The Odin Project's Discord community for any new Core, Maintainers, and Moderators.
+_This document will serve as the entry point to chat moderation in The Odin Project's Discord community for any new Core, Maintainers, and Moderators._
 
 ## Purpose of Moderator Role
 
