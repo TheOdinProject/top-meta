@@ -28,7 +28,7 @@ Removal of the role is subject to the discretion of the Core team members and ma
     - We apply this role to users who we wish to have a private conversation with, away from the rest of the community. This channel is public to other members of the team for transparency and is where engagements regarding the rules or general chat conduct should occur, as opposed to direct messages.
     - Be mindful that the chat history is not preserved from the user perspective. If a user goes offline, when they return the chat history will be removed from their perspective, potentially requiring us to screenshot prior history.
     - A user can regain their access on their own by acknowledging the rules in the `#rules` channel. Be mindful of this possibility when having engagements.
-    - Abuse of the bot should result in the assignment of the `NOBOT` role, which will result in the `odin-bot`
+    - Abuse of the bot should result in the assignment of the `NOBOT` role, which will result in the `odin-bot` ignoring any bot commands made by the user.
 - **`Delete` messages from all channels and threads.**
     - Use discretion.
     - Screenshot all messages to be deleted and post them in the `#chat-moderation` channel.
