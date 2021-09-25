@@ -191,8 +191,9 @@ https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/joi
 > 2. On the topic of giving context, ASK ABOUT YOUR PROBLEM, NOT THE SOLUTION. A lot of folks ask “How do I do this instruction from the project specifications”? Well, don’t forget you’re actually supposed to figure that out for yourself. A much better question is, “Hey, I’m trying to do this instruction from this project, but I’m getting this error, how can I fix this? Here’s my code.” 
 > 
 > If I’m assigned a bug fix at work, and I literally ask “how do I fix this bug?”, well, what are they paying me for? But asking where I can start, what I’ve tried, and what I can research to help figure it out pays dividends. It also helps me learn what I obviously don't know yet. 
+> 
+> 3. Don’t take asking for more context to heart! We are here to help! We want to help you. But a question you may feel is totally coherent, probably isn’t if we’re asking for more context. We don’t link you to /question to be jerks! People here are volunteers, none of us are paid to run the chat, and folks don’t have to answer your question. But if they truly do want to answer you, they will ask for more information
 
-3. Don’t take asking for more context to heart! We are here to help! We want to help you. But a question you may feel is totally coherent, probably isn’t if we’re asking for more context. We don’t link you to /question to be jerks! People here are volunteers, none of us are paid to run the chat, and folks don’t have to answer your question. But if they truly do want to answer you, they will ask for more information
 **What books should I read/do you recommend?**
 Our curriculum will recommend books when the time is right. If you haven't come across recommendations, the time isn't right. Yet. (Though, I've heard Moby Dick is a good book)
 
