@@ -2,7 +2,7 @@
 
 One of the things that makes The Odin Project a unique place on the internet is the vibrant community on Discord. We help each other, hang out together, and most importantly, build each other up. 
 
-Building communities is difficult and we want to make sure that we encourage the right kinds of behaviors. When you join our Discord server, you will notice a few roles. Not all of them are roles that are essential, but they may be used to help organize events (such as book clubs), or signify one's experience. 
+Building communities is difficult and we want to make sure that we encourage the right kinds of behaviors. When you join our Discord server, you will notice a few roles. Not all of them are essential, but they may be used to help organize events (such as book clubs), or signify one's experience. 
 
 ## Essential Discord User Roles:
 
