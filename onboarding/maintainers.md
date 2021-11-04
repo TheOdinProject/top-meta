@@ -53,11 +53,13 @@ Being that contributions will vary in substance and frequency, the Core team wil
         - Feel free to fix small typos and wording using the in-browser editor
         -  https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-request-reviews
     - New lessons will have to have the "seeds" file updated to accomodate and show on the site
-- **Updates** to the markdown will be reflected on the site **once a day**
-    - If somebody asks why their PR isn't showing, this is why
 - **Merge PRs**
+    - All maintainers share the responsibility of reviewing and merging PRs, even if another maintainer requested changes or created the issue (with the exception of a specialized epic project that one maintainer is overseeing, like the new HTML/CSS lessons).
     - Since you are a maintainer, we trust your judgement. With git, everything can be reverted, so don't be afraid to merge things from non-maintainers/core.
         - Ask Kevin about his screw-ups (and Marvin)
-    - If a PR looks to be good, feel free to merge after review
-    - Do not merge if you are unsure, ask somebody else for review
+    - If a PR looks to be good, feel free to merge after review.
+        - When a maintainer submits a PR, you only need to review it. After your approval, they will merge it in themselves.
+    - Do not merge if you are unsure, ask somebody else for review.
+        - If no one has reviewed the PR, you are welcome to post it in the #review-requests channel to bring it to everyone's attention.
+        - If the contributor has made the requested changes without requesting another review, you should request it for them on GitHub.
 
