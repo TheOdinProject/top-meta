@@ -23,19 +23,19 @@ Removal of the role is subject to the discretion of the Core team members and ma
     - Kick clear phishers and spammers immediately
     - Rules are meant to be relaxed, with the exception of **overt** usage of hate speech, racism, or pornography. 
     
-- **Application of the `loki?` role for rule-breakers and "stern" warnings** (see: `#i-didnt-read-the-rules`)
-    - The `loki?` role removes a user's permissions such that they can only view the `#i-didnt-read-the-rules` channel.
+- **Application of the `loki?` role for rule-breakers and "stern" warnings** (see: `#please-wait`)
+    - The `loki?` role removes a user's permissions such that they can only view the `#please-wait` channel.
     - We apply this role to users who we wish to have a private conversation with, away from the rest of the community. This channel is public to other members of the team for transparency and is where engagements regarding the rules or general chat conduct should occur, as opposed to direct messages.
     - Be mindful that the chat history is not preserved from the user perspective. If a user goes offline, when they return the chat history will be removed from their perspective, potentially requiring us to screenshot prior history.
     - A user can regain their access on their own by acknowledging the rules in the `#rules` channel. Be mindful of this possibility when having engagements.
     - Abuse of the bot should result in the assignment of the `NOBOT` role, which will result in the `odin-bot` ignoring any bot commands made by the user.
 - **`Delete` messages from all channels and threads.**
     - Use discretion.
-    - Screenshot all messages to be deleted and post them in the `#chat-moderation` channel.
+    - Screenshot all messages to be deleted and post them in the `#chat-mod-actions` channel.
     - Immediately delete content that breaks rules regarding hate speech, racism, and pornography. 
-    - Use discretion within reason regarding "bad etiquette"
+    - Use discretion within reason regarding "bad etiquette".
     - Malicious messages should be deleted.
-        - e.g. If somebody is attempting to get somebody to run `rm -rf /`
+        - e.g. If somebody is attempting to get somebody to run `rm -rf /`.
         - Somebody is looking for help with "phishing" or other illegal activities.
         - Potentially warrants a `loki?` before continuing the user's participation in the community.
 - **`Change Nickname` permissions.**
