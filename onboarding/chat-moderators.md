@@ -16,19 +16,6 @@ Removal of the role is subject to the discretion of the Core team members and ma
 ### Maintain, follow, and enforce rules
 
 - As a moderator, you will be expected to **adhere to** and **uphold** the rules as detailed and maintained in the `#rules` channel in the Discord at all times. 
-- **Kick users from the discord**
-    - Primarily, due to the inability to adhere to the rules.
-    - Users within the community, should be met with a warning first.
-    - Exercise 'common sense' discretion when deciding whether to exercise this power.
-    - Kick clear phishers and spammers immediately
-    - Rules are meant to be relaxed, with the exception of **overt** usage of hate speech, racism, or pornography. 
-    
-- **Application of the `loki?` role for rule-breakers and "stern" warnings** (see: `#please-wait`)
-    - The `loki?` role removes a user's permissions such that they can only view the `#please-wait` channel.
-    - We apply this role to users who we wish to have a private conversation with, away from the rest of the community. This channel is public to other members of the team for transparency and is where engagements regarding the rules or general chat conduct should occur, as opposed to direct messages.
-    - Be mindful that the chat history is not preserved from the user perspective. If a user goes offline, when they return the chat history will be removed from their perspective, potentially requiring us to screenshot prior history.
-    - When you have given a user the `loki?` role, it is your responsibility to restore their privilages to the chat.
-    - Abuse of the bot should result in the assignment of the `NOBOT` role, which will result in the `odin-bot` ignoring any bot commands made by the user.
 - **`Delete` messages from all channels and threads.**
     - Use discretion.
     - Screenshot all messages to be deleted and post them in the `#chat-mod-actions` channel.
@@ -38,6 +25,18 @@ Removal of the role is subject to the discretion of the Core team members and ma
         - e.g. If somebody is attempting to get somebody to run `rm -rf /`.
         - Somebody is looking for help with "phishing" or other illegal activities.
         - Potentially warrants a `loki?` before continuing the user's participation in the community.
+- **Kick users from the discord**
+    - Primarily, due to the inability to adhere to the rules.
+    - Users within the community, should be met with a warning first.
+    - Exercise 'common sense' discretion when deciding whether to exercise this power.
+    - Kick clear phishers and spammers immediately
+    - Rules are meant to be relaxed, with the exception of **overt** usage of hate speech, racism, or pornography. 
+- **Application of the `loki?` role for rule-breakers and "stern" warnings** (see: `#please-wait`)
+    - The `loki?` role removes a user's permissions such that they can only view the `#please-wait` channel.
+    - We apply this role to users who we wish to have a private conversation with, away from the rest of the community. This channel is public to other members of the team for transparency and is where engagements regarding the rules or general chat conduct should occur, as opposed to direct messages.
+    - Be mindful that the chat history is not preserved from the user perspective. If a user goes offline, when they return the chat history will be removed from their perspective, potentially requiring us to screenshot prior history.
+    - When you have given a user the `loki?` role, it is your responsibility to restore their privilages to the chat.
+    - Abuse of the bot should result in the assignment of the `NOBOT` role, which will result in the `odin-bot` ignoring any bot commands made by the user.
 - **`Change Nickname` permissions.**
     - User nicknames _should_ adhere to our rules.
     - Overtly hateful, racist, or sexual names are not tolerated.
