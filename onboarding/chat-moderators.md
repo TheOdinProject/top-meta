@@ -27,7 +27,7 @@ Removal of the role is subject to the discretion of the Core team members and ma
     - The `loki?` role removes a user's permissions such that they can only view the `#please-wait` channel.
     - We apply this role to users who we wish to have a private conversation with, away from the rest of the community. This channel is public to other members of the team for transparency and is where engagements regarding the rules or general chat conduct should occur, as opposed to direct messages.
     - Be mindful that the chat history is not preserved from the user perspective. If a user goes offline, when they return the chat history will be removed from their perspective, potentially requiring us to screenshot prior history.
-    - A user can regain their access on their own by acknowledging the rules in the `#rules` channel. Be mindful of this possibility when having engagements.
+    - When you have given a user the `loki?` role, it is your responsibility to restore their privilages to the chat.
     - Abuse of the bot should result in the assignment of the `NOBOT` role, which will result in the `odin-bot` ignoring any bot commands made by the user.
 - **`Delete` messages from all channels and threads.**
     - Use discretion.
