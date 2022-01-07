@@ -1,8 +1,8 @@
 ---
 name: Data Structures and Algorithms Lesson Issue Template
 about: Template for creating new lesson issues
-title: 'Lesson: CourseName - LessonName'
-labels: data-structures-algorithms
+title: 'Lesson: DSA - LessonName'
+labels: data structures & algorithms
 assignees: ''
 
 ---
