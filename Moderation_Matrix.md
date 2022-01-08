@@ -12,7 +12,7 @@ Minor violations such as:
 - A second infraction of the following:
   - Short circuiting a teaching moment (Rule 10)
 - Asking for help with Windows or encouraging the use of it
-- “Chat bombing”, aka posting many short (ususally 4-5 or fewer words) messages in rapid succession, repeatedly sending parts of thoughts (incomplete, non-standalone sentences or fragments) in new messages. (Use shift + enter and send ONE message where possible or edit your message) (Rule 7)
+  - “Chat bombing”, aka posting many short (ususally 4-5 or fewer words) messages in rapid succession, repeatedly sending parts of thoughts (incomplete, non-standalone sentences or fragments) in new messages. (Use shift + enter and send ONE message where possible or edit your message) (Rule 7)
 
 ## 2 Zaps (WARNING)
 Medium severity violations such as: 
