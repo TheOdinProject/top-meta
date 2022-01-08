@@ -43,4 +43,10 @@ Extreme severity violations such as:
   - Repeated random nonsensical messages (copypasta)
 - Doxxing (Rule 7)
 
+Zaps expire at a rate of 1 per week. 
+
 Repeated offenses with unexpired "zaps" increase to the next penalty tier. E.g. The second time a user is warned about unsolicited pings or DMs, they earn 5 zaps instead of 2, making them 3 zaps away from a ban.
+
+This is not a comprehensive list and zaps are at the discretion of the moderation team. Please DM @ModMail if you would like to discuss this matrix or any moderation activity (whether you are on the receiving end or not). 
+
+
