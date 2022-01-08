@@ -34,7 +34,7 @@ High severity violations such as:
 
 ## 10 Zaps (Immediate Ban)
 Extreme severity violations such as: 
-- Bigotry (racism, homophobia, etc) (Rule 7 and 8)
+- Bigotry (racism, homophobia, hate speech etc) (Rule 7 and 8)
 - Harassment (Rule 7)
 - NSFW Imagery (Rule 7)
 - Spamming 
