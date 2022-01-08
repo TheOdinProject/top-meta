@@ -11,9 +11,7 @@ Minor violations such as:
   - Mental health issues discussion (Rule 12)
 - A second infraction of the following:
   - Short circuiting a teaching moment (Rule 10)
-  - Windows (Rule 14)
-    - Asking for help on or with
-    - Encouraging use of
+- Asking for help with Windows or encouraging the use of it
 - “Chat bombing”, aka posting many short (ususally 4-5 or fewer words) messages in rapid succession, repeatedly sending parts of thoughts (incomplete, non-standalone sentences or fragments) in new messages. (Use shift + enter and send ONE message where possible or edit your message) (Rule 7)
 
 ## 2 Zaps (WARNING)
