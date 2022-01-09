@@ -7,7 +7,7 @@ Minor violations such as:
 - Asking about topics or projects unrelated to The Odin Project (Rules 11 and 12)
 -Mild unprofessionalism: see this guide https://www.bitrix24.com/about/blogs/communications/instant-messaging-and-group-chat-etiquette-in-a-professional-environme.php 
   - Drug related conversation (Rule 7)
-  - Special attention to treating everyone with respect
+  - Treating others on the server disrespectfully
   - Mental health issues discussion (Rule 12)
 - A second infraction of the following:
   - Short circuiting a teaching moment (Rule 10)
