@@ -1,3 +1,46 @@
+# Core Expectations
+
+## Remain active 
+
+Stay up-to-date with changes that affect any one, but not necessarily all, of the various topics that comprise The Odin Project
+- TOP-meta contribution and tracking
+- Repositories under the TOP umbrella
+- Infrastructure that runs TOP
+- Relationships with benefactors/stakeholders (e.g. Thinkful)
+- Core and maintainer channels on the server
+- Major curriculum changes
+- Votes
+- Meetings
+- Initiatives (Fireside chat, TOPathons, gamejams)
+
+## Maintenance of the platform
+- Curriculum contributions, edits, changes, PR review, and helping drive contributors all fall under this umbrella
+- Core members should follow the maintainer guidelines for contributions, with relaxed requirements to spend time on initiatives
+- Some core members may have specializations that bend this guideline at times, though, contributing to top-meta is still a requirement
+- Maintenance can mean community events (TOPathons, game-jams, Fireside chats), design/UX, and other items like social media
+
+## Communication    
+- Communicate absences. For different reasons, related to work, studies, family, etc. there will be periods of time where a Core member can not commit to the demands of TOP and its community, either as much as one would like or as much as is needed. However, this should be the exception, not the rule.
+- Propose changes to function or form of The Odin Project
+  - Curriculum Changes
+  - Moderation strategy
+  - Site functionality
+  - Initiatives (e.g. Gamejams, TOPathons, Fireside chats)
+  - Etc.
+- Communications should happen on a semi-regular cadence
+
+## Make informed decisions
+- Everybody is expected to vote
+- Some things may not have any guidelines
+- Use the voting system in place
+
+## Adhere to the social contract
+
+## Be a leader
+- Continue to do everything in your ability within reason to improve and maintain the quality of the platform for the end-user with respect to the time and efforts of those maintaining the platform.
+
+---
+
 # Voting levels
 
 ## Small 
