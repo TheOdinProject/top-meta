@@ -14,6 +14,7 @@ Minor violations such as:
   - Drug related conversation (Rule 7)
   - Treating others on the server disrespectfully
   - Mental health issues discussion (Rule 12)
+  - Relationship advice
 - A second infraction of the following:
   - Short circuiting a teaching moment (Rule 10)
 - Asking for help with Windows or encouraging the use of it
