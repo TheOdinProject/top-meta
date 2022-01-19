@@ -40,8 +40,9 @@ Extreme severity violations such as:
   - Self promotion (joining just to promote material, no prior chat history)
   - Repeated random nonsensical messages (copypasta)
 - Doxxing (Rule 7)
+- Any other behavior deemed unacceptable and deserving of a ban by the moderation team
 
-Zaps expire at a rate of 1 per week. 
+Zaps decay at a rate of 1 zap per week. 
 
 Repeated offenses with unexpired "zaps" increase to the next penalty tier. E.g. The second time a user is warned about unsolicited pings or DMs, they earn 5 zaps instead of 2, making them 3 zaps away from a ban.
 
