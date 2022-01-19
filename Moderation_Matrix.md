@@ -1,5 +1,10 @@
 # Moderation Matrix
 
+## 0 Zaps (Heads Up)
+- Dog piling/short circuiting a teaching moment
+- Asking about or encouraging the use of Windows
+- "Chat bombing"
+
 ## 1 Zap (WARNING) 
 Minor violations such as:
 - "Mini-modding"
