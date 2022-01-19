@@ -10,7 +10,7 @@ Minor violations such as:
 - "Mini-modding"
   - Please leave moderation action to the moderators, use ModMail to report rule breaking or if you see something you’re unsure about in the community
 - Asking about topics or projects unrelated to The Odin Project (Rules 11 and 12)
--Mild unprofessionalism: see this guide https://www.bitrix24.com/about/blogs/communications/instant-messaging-and-group-chat-etiquette-in-a-professional-environme.php 
+-Mild unprofessionalism:
   - Drug related conversation (Rule 7)
   - Treating others on the server disrespectfully
   - Mental health issues discussion (Rule 12)
