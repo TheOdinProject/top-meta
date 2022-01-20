@@ -20,8 +20,7 @@ Minor violations such as:
   - Treating others on the server disrespectfully
   - Mental health issues discussion 
   - Relationship advice
-- A second infraction of the following:
-  - All 0 Zap infractions
+- A second infraction of any 0 Zap issues above
 
 ## 2 Zaps (WARNING)
 Medium severity violations such as: 
