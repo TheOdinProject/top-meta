@@ -4,6 +4,7 @@
 - Dog piling/short circuiting a teaching moment
 - Asking about or encouraging the use of Windows
 - "Chat bombing"
+- Discussing mental health issues in depth
 
 ## 1 Zap (WARNING) 
 Minor violations such as:
