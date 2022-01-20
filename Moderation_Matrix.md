@@ -30,7 +30,7 @@ Medium severity violations such as:
 - Mild toxicity (directed insults, provoking/baiting other users, passive aggression, naming & shaming) (Rule 7)
 - Self promo without permission (ask with Modmail)(Rule 7)
   - Do not share resources you have created solely for personal or monetary gain
-  - Examples: "Fill out my survey" (does not help the goals of Odin), "Join my boot camp/program/server" (Could mislead learners), "Why PHY is superior" (unrelated blog post)
+  - Examples: "Fill out my survey" (does not help the goals of Odin), "Join my boot camp/program/server" (Could mislead learners), "Why PHP is superior" (unrelated blog post)
 
 ## 5 Zaps
 High severity violations such as: 
