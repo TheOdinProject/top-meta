@@ -6,8 +6,9 @@ This matrix is not all encompassing and zaps are given at the discretion of the 
 ## 0 Zaps (Heads Up)
 - Dog piling/short circuiting a teaching moment
 - Asking about or encouraging the use of Windows
-- "Chat bombing"
+- "Chat bombing", aka posting many short (ususally 4-5 or fewer words) messages in rapid succession, repeatedly sending parts of thoughts (incomplete, non-standalone sentences or fragments) in new messages. (Use shift + enter and send ONE message where possible or edit your message) 
 - Discussing mental health issues in depth
+
 
 ## 1 Zap (WARNING) 
 Minor violations such as:
@@ -20,9 +21,7 @@ Minor violations such as:
   - Mental health issues discussion 
   - Relationship advice
 - A second infraction of the following:
-  - Short circuiting a teaching moment 
-- Asking for help with Windows or encouraging the use of it
-  - “Chat bombing”, aka posting many short (ususally 4-5 or fewer words) messages in rapid succession, repeatedly sending parts of thoughts (incomplete, non-standalone sentences or fragments) in new messages. (Use shift + enter and send ONE message where possible or edit your message) 
+  - All 0 Zap infractions
 
 ## 2 Zaps (WARNING)
 Medium severity violations such as: 
