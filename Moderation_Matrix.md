@@ -9,7 +9,6 @@ This matrix is not all encompassing and zaps are given at the discretion of the 
 - "Chat bombing", aka posting many short (ususally 4-5 or fewer words) messages in rapid succession, repeatedly sending parts of thoughts (incomplete, non-standalone sentences or fragments) in new messages. (Use shift + enter and send ONE message where possible or edit your message) 
 - Discussing mental health issues in depth
 
-
 ## 1 Zap (WARNING) 
 Minor violations such as:
 - "Mini-modding"
