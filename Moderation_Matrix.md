@@ -11,15 +11,15 @@ This matrix is not all encompassing and zaps are given at the discretion of the 
 
 ## 1 Zap (WARNING) 
 Minor violations such as:
+- A second infraction of any 0 Zap issues above
 - "Mini-modding"
   - Please leave moderation action to the moderators, use ModMail to report rule breaking or if you see something you’re unsure about in the community
 - Asking about topics or projects unrelated to The Odin Project 
--Mild unprofessionalism:
+- Mild unprofessionalism:
   - Drug related conversation 
   - Treating others on the server disrespectfully
   - Mental health issues discussion 
   - Relationship advice
-- A second infraction of any 0 Zap issues above
 
 ## 2 Zaps (WARNING)
 Medium severity violations such as: 
