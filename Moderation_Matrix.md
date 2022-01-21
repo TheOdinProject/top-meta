@@ -24,19 +24,19 @@ Minor violations such as:
 
 ## 2 Zaps (WARNING)
 Medium severity violations such as: 
-- Suggesting piracy (Rule 9)
-- Unsolicited pings/DM/friend request (Rule 6)
-- Political or religious topics (Rule 8)
-- Mild toxicity (directed insults, provoking/baiting other users, passive aggression, naming & shaming) (Rule 7)
-- Self promo without permission (ask with Modmail)(Rule 7)
+- Suggesting piracy 
+- Unsolicited pings/DM/friend request 
+- Political or religious topics 
+- Mild toxicity (directed insults, provoking/baiting other users, passive aggression, naming & shaming)
+- Self promo without permission (ask with Modmail)
   - Do not share resources you have created solely for personal or monetary gain
   - Examples: "Fill out my survey" (does not help the goals of Odin), "Join my boot camp/program/server" (Could mislead learners), "Why PHP is superior" (unrelated blog post)
 
 ## 5 Zaps
 High severity violations such as: 
-- Posting about any illegal activities, such as facilitating piracy (Rule 7 and 9)
+- Posting about any illegal activities, such as facilitating piracy 
 - Publicly arguing about receiving moderation activity after being asked to take it to ModMail/discuss privately 
-- Excessive toxicity (targeted harassment, inciting drama, aggressively arguing purposefully, etc.) (Rule 7)
+- Excessive toxicity (targeted harassment, inciting drama, aggressively arguing purposefully, etc.) 
 
 ## 10 Zaps (Immediate Ban)
 Extreme severity violations such as: 
