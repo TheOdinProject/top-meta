@@ -26,12 +26,16 @@ Medium severity violations such as:
 - Suggesting piracy 
 - Unsolicited pings/DM/friend request 
 - Political or religious topics 
-- Mild toxicity (directed insults, provoking/baiting other users, passive aggression, naming & shaming)
+- Mild toxicity:
+  - Directed insults
+  - Provoking/baiting other users
+  - Passive aggression
+  - Naming & shaming
 - Self promo without permission (ask with Modmail)
   - Do not share resources you have created solely for personal or monetary gain
   - Examples: "Fill out my survey" (does not help the goals of Odin), "Join my boot camp/program/server" (Could mislead learners), "Why PHP is superior" (unrelated blog post)
 
-## 5 Zaps
+## 5 Zaps (SEVERE WARNING)
 High severity violations such as: 
 - Posting about any illegal activities, such as facilitating piracy 
 - Publicly arguing about receiving moderation activity after being asked to take it to ModMail/discuss privately 
@@ -54,5 +58,4 @@ Zaps decay at a rate of 1 zap per week. E.g., if you receive 5 zaps on a Friday,
 Repeated offenses with unexpired "zaps" increase to the next penalty tier. E.g. The second time a user is warned about unsolicited pings or DMs, they earn 5 zaps instead of 2, making them 3 zaps away from a ban.
 
 This is not a comprehensive list and zaps are at the discretion of the moderation team. Please DM @ModMail if you would like to discuss this matrix or any moderation activity (whether you are on the receiving end or not). 
-
 
