@@ -44,7 +44,7 @@ High severity violations such as:
 ## 10 Zaps (Immediate Ban)
 Extreme severity violations such as: 
 - Bigotry (racism, homophobia, hate speech etc)
-- Harassment 
+- Continued harassment
 - NSFW Imagery
 - Spamming 
   - Discord Nitro spam
