@@ -13,7 +13,8 @@ This matrix is not all encompassing and zaps are given at the discretion of the 
 Minor violations such as:
 - A second infraction of any 0 Zap issues above
 - "Mini-modding"
-  - Please leave moderation action to the moderators, use ModMail to report rule breaking or if you see something you’re unsure about in the community
+  - Please leave moderation action to the moderators
+  - use ModMail to report rule breaking or if you see something you’re unsure about in the community
 - Asking for advice/help on projects unrelated to The Odin Project, or asking about topics unrelated to our Discord channels
 - Mild unprofessionalism:
   - Drug related conversation 
