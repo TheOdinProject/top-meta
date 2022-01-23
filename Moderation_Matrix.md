@@ -45,7 +45,7 @@ High severity violations such as:
 Extreme severity violations such as: 
 - Bigotry (racism, homophobia, hate speech etc)
 - Continued harassment
-- NSFW Imagery
+- NSFW or otherwise highly offensive imagery in posts, profile pictures, or usernames
 - Spamming 
   - Discord Nitro spam
   - Self promotion (joining just to promote material, no prior chat history)
