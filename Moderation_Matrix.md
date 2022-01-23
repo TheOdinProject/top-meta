@@ -19,7 +19,6 @@ Minor violations such as:
 - Mild unprofessionalism:
   - Drug related conversation 
   - Treating others on the server disrespectfully
-  - Mental health issues discussion 
   - Relationship advice
 
 ## 2 Zaps (WARNING)
