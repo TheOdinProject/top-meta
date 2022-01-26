@@ -1,7 +1,7 @@
 # Moderation Matrix
 This matrix correlates with the [Community Rules](https://www.theodinproject.com/community_rules) that are required to be followed in order to participate in the community. Some rules have different levels of severity, so you may see references to them under different numbers of zaps. 
 
-This matrix is not all encompassing and zaps are given at the discretion of the moderator team.
+This matrix is not all encompassing and zaps are given at the discretion of the moderator team. Zaps are private to the user and the moderation team.
 
 ## 0 Zaps (Heads Up)
 - Dog piling/short circuiting a teaching moment
