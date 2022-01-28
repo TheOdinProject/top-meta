@@ -1,3 +1,16 @@
+# What is Core
+
+Core members are maintainers first and foremost, with the added responsibility to manage the platform as a whole, for the betterment of the platform. 
+
+This can mean
+* final decisions on large topics via votes
+* handling the final decisions related to infrastructure (but not necessarily managing it, that can be anybody on the team)
+* handling any licensure items
+* being "legal owners" of assets and brand
+* owning any sensitive material (such as keys, passwords, payment information, etc)
+* manage any benefactor relationships
+* and any other necessary executive decisions
+
 # Social Contract
 
 This social contract is created, altered, and maintained by the team and should be reviewed regularly. It’s our by-laws. People need to be held accountable to these and anyone joining needs to accept the contract and understand that they will be called out for not following it. 
