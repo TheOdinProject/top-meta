@@ -14,8 +14,9 @@ This matrix is not all encompassing and zaps are given at the discretion of the 
 Minor violations such as:
 - A second infraction of any 0 Zap issues above
 - "Mini-modding"
+  - Enforcement of any of the rules instead of notifying moderators (see example below)
   - Please leave moderation action to the moderators
-  - use ModMail to report rule breaking or if you see something you’re unsure about in the community
+  - Use ModMail to report rule breaking or if you see something you’re unsure about in the community
 - Asking for advice/help on projects unrelated to The Odin Project, or asking about topics unrelated to our Discord channels
 - Mild unprofessionalism:
   - Drug related conversation 
@@ -56,7 +57,7 @@ Extreme severity violations such as:
 
 Zaps decay at a rate of 1 zap per week. E.g., if you receive 5 zaps on a Friday, the following Friday you will have 4, the Friday after that you will have 3, and so forth. This means higher level infractions remain on record for a longer period of time, and more strongly jeopardize your ability to participate in the server if rules are continued to be broken. 
 
-Repeated offenses increase to the next penalty tier.
+**Repeated offenses increase to the next penalty tier.**
 
 **Scenario:** 
 1. Kierra is warned about dogpiling once, which earns her zero zaps as it is a first warning for a minor violation.
@@ -64,6 +65,16 @@ Repeated offenses increase to the next penalty tier.
 3. The next day, Kierra is once again warned about dogpiling. This now earns her two zaps for a total of 3 zaps.
 4. The day after that, Kierra is warned about dogpiling and earns 5 zaps, for a total of 8 zaps.
 5. The next time Kierra is warned about dogpiling, she earns 10 zaps and is now banned from the server as she has accumulated 18 zaps. 
+
+
+**What is mini-modding?**
+While we love having a community that can hold one another accountable and point individuals to the right direction, ultimately moderation should be done by moderators, not regular users, so we can maintain a welcoming and friendly chat environment. Mini-modding means that a non-moderator user is enforcing the rules or speaking for the team of which they are not a part of. When individuals who are not part of the moderation team or who do not maintain the platform begin enforcing rules or speaking for the team, it is up to the team to mitigate any public arguments that often occur, or to correct users who have spoken out of turn for the team. 
+
+**Scenario:**
+1. Darius posts a question about Rock Paper Scissors in #odin-general and in #javascript-help-1
+2. Jacob replies to Darius saying, "No crossposting, see the #rules"
+
+Jacob should instead report this to @ModMail so the proper individuals can notify Darius of the rules. 
 
 This is not a comprehensive list of all possible scenarios and zaps are made at the discretion of the moderation team if particular behaviors are inappropriate but not otherwise explicitly covered. Please DM @ModMail if you would like to discuss this matrix or any moderation activity (whether you are on the receiving end or not). 
 
