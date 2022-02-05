@@ -56,18 +56,14 @@ Extreme severity violations such as:
 
 Zaps decay at a rate of 1 zap per week. E.g., if you receive 5 zaps on a Friday, the following Friday you will have 4, the Friday after that you will have 3, and so forth. This means higher level infractions remain on record for a longer period of time, and more strongly jeopardize your ability to participate in the server if rules are continued to be broken. 
 
-Repeated offenses with unexpired zaps increase to the next penalty tier.
-**Scenario 1:** 
+Repeated offenses increase to the next penalty tier.
+
+**Scenario:** 
 1. Kierra is warned about dogpiling once, which earns her zero zaps as it is a first warning for a minor violation.
 2. Two days later, Kierra is warned about dogpiling again, and earns a single zap as she has already been warned. She now has 1 zap.
 3. The next day, Kierra is once again warned about dogpiling. This now earns her two zaps for a total of 3 zaps.
 4. The day after that, Kierra is warned about dogpiling and earns 5 zaps, for a total of 8 zaps.
 5. The next time Kierra is warned about dogpiling, she earns 10 zaps and is now banned from the server as she has accumulated 18 zaps. 
-
-**Scenario 2:**
-1. Kierra is warned about dogpiling once, which earns her zero zaps as it is a first warning for a minor violation.
-2. Two days later, Kierra is warned about dogpiling again, and earns a single zap as she has already been warned. She now has 1 zap.
-3. Kierra is warned about dogpiling 2 months later. Because all her zaps have expired, she only receives 1 zap. 
 
 This is not a comprehensive list of all possible scenarios and zaps are made at the discretion of the moderation team if particular behaviors are inappropriate but not otherwise explicitly covered. Please DM @ModMail if you would like to discuss this matrix or any moderation activity (whether you are on the receiving end or not). 
 
