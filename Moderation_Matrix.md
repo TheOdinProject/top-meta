@@ -4,7 +4,7 @@ This matrix correlates with the [Community Rules](https://www.theodinproject.com
 This matrix is not all encompassing and zaps are given at the discretion of the moderator team. Zaps are private to the user and the moderation team. Zaps accumulate over time if rules continue to be broken.
 
 ## 0 Zaps (Heads Up)
-- Dog piling/short circuiting a teaching moment
+- Dog piling/short circuiting a teaching moment (E.g jumping in to help when someone else is already helping out, giving an answer when someone is leading someone to think critically about their problem)
 - Asking about or encouraging the use of Windows
 - "Chat bombing", aka posting many short (ususally 4-5 or fewer words) messages in rapid succession, repeatedly sending parts of thoughts (incomplete, non-standalone sentences or fragments) in new messages. (Use shift + enter and send ONE message where possible or edit your message) 
 - Discussing mental health issues in depth or seeking mental health help from other users
@@ -54,9 +54,20 @@ Extreme severity violations such as:
 - Doxxing 
 - Any other behavior deemed unacceptable and deserving of a ban by the moderation team
 
-Zaps decay at a rate of 1 zap per week. E.g., if you receive 5 zaps on a Friday, the following Friday you will have 4, the Friday after that you will have 3, and so forth. This means higher level infractions may impact your ability to participate for a longer period of time if further rules are broken. 
+Zaps decay at a rate of 1 zap per week. E.g., if you receive 5 zaps on a Friday, the following Friday you will have 4, the Friday after that you will have 3, and so forth. This means higher level infractions remain on record for a longer period of time, and more strongly jeopardize your ability to participate in the server if rules are continued to be broken. 
 
-Repeated offenses with unexpired "zaps" increase to the next penalty tier. E.g. The second time a user is warned about unsolicited pings or DMs, they earn 5 zaps instead of 2, making them 3 zaps away from a ban.
+Repeated offenses with unexpired zaps increase to the next penalty tier.
+**Scenario 1:** 
+1. Kierra is warned about dogpiling once, which earns her zero zaps as it is a first warning for a minor violation.
+2. Two days later, Kierra is warned about dogpiling again, and earns a single zap as she has already been warned. She now has 1 zap.
+3. The next day, Kierra is once again warned about dogpiling. This now earns her two zaps for a total of 3 zaps.
+4. The day after that, Kierra is warned about dogpiling and earns 5 zaps, for a total of 8 zaps.
+5. The next time Kierra is warned about dogpiling, she earns 10 zaps and is now banned from the server as she has accumulated 18 zaps. 
 
-This is not a comprehensive list and zaps are at the discretion of the moderation team. Please DM @ModMail if you would like to discuss this matrix or any moderation activity (whether you are on the receiving end or not). 
+**Scenario 2:**
+1. Kierra is warned about dogpiling once, which earns her zero zaps as it is a first warning for a minor violation.
+2. Two days later, Kierra is warned about dogpiling again, and earns a single zap as she has already been warned. She now has 1 zap.
+3. Kierra is warned about dogpiling 2 months later. Because all her zaps have expired, she only receives 1 zap. 
+
+This is not a comprehensive list of all possible scenarios and zaps are made at the discretion of the moderation team if particular behaviors are inappropriate but not otherwise explicitly covered. Please DM @ModMail if you would like to discuss this matrix or any moderation activity (whether you are on the receiving end or not). 
 
