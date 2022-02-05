@@ -60,6 +60,7 @@ Zaps decay at a rate of 1 zap per week. E.g., if you receive 5 zaps on a Friday,
 **Repeated offenses increase to the next penalty tier.**
 
 **Scenario:** 
+
 1. Kierra is warned about dogpiling once, which earns her zero zaps as it is a first warning for a minor violation.
 2. Two days later, Kierra is warned about dogpiling again, and earns a single zap as she has already been warned. She now has 1 zap.
 3. The next day, Kierra is once again warned about dogpiling. This now earns her two zaps for a total of 3 zaps.
@@ -68,13 +69,16 @@ Zaps decay at a rate of 1 zap per week. E.g., if you receive 5 zaps on a Friday,
 
 
 **What is mini-modding?**
+
 While we love having a community that can hold one another accountable and point individuals to the right direction, ultimately moderation should be done by moderators, not regular users, so we can maintain a welcoming and friendly chat environment. Mini-modding means that a non-moderator user is enforcing the rules or speaking for the team of which they are not a part of. When individuals who are not part of the moderation team or who do not maintain the platform begin enforcing rules or speaking for the team, it is up to the team to mitigate any public arguments that often occur, or to correct users who have spoken out of turn for the team. 
 
 **Scenario:**
+
 1. Darius posts a question about Rock Paper Scissors in #odin-general and in #javascript-help-1
 2. Jacob replies to Darius saying, "No crossposting, see the #rules"
+3. Darius is now upset because of the terseness of Jacob's reply and the two are now arguing.
 
-Jacob should instead report this to @ModMail so the proper individuals can notify Darius of the rules. 
+Jacob should have instead reported this to @ModMail so the proper individuals can notify Darius of the rules in private. 
 
 This is not a comprehensive list of all possible scenarios and zaps are made at the discretion of the moderation team if particular behaviors are inappropriate but not otherwise explicitly covered. Please DM @ModMail if you would like to discuss this matrix or any moderation activity (whether you are on the receiving end or not). 
 
