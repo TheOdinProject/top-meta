@@ -19,7 +19,7 @@ We all know that as a Server Booster you receive a special role in the server. I
 
 These roles have **no moderation** privileges.
 
-- **club-40** - folks that have been around TOP for a while and have helped out other students in the channels. This role is maintained by the Odin Bot and this status is achieved by reaching 40 points. 
+- **club-40** - folks that have been around TOP for a while and have most ofen helped out other learners in the channels. This role is maintained by the Odin Bot and this status is achieved by reaching 40 points. 
 - **cah-crew** and **jam participant** - community events focused on providing opportunities for team work. Keep an eye on the #announcements for more events!
 - **...-book-club** - participants in our book clubs, such as YDKJS book series. 
 
