@@ -61,6 +61,7 @@ Removal of the role is subject to the discretion of the Core team members and ma
     - Rules are meant to be relaxed, with the exception of **overt** usage of hate speech, racism, or pornography. 
 
 ### Banning
+- Members that are Nitro spammers (or similarly malicious spammers) should have the message screenshotted and posted in the `#chat-mod-actions` channel before banning.
 - Unless it is for Nitro spam or another egregious act (hate speech, racism, pornography, etc), you should consult with Maintainers and Core before banning a user.
 - Always ban users with Dyno bot's ban commands, as this keeps a history of who was banned, who initiated the ban, and what the reason of the ban was for.
 - Dyno bot offers the ability to temporary ban a user for a set period of time, at which point they will automatically be unbanned. Similar to a permanent ban, do not abuse this or temporary ban anyone without consulting with Maintainers and Core.
