@@ -36,11 +36,14 @@ Removal of the role is subject to the discretion of the Core team members and ma
         - e.g. If somebody is attempting to get somebody to run `rm -rf /`.
         - Somebody is looking for help with "phishing" or other illegal activities.
         - Potentially warrants a `loki?` before continuing the user's participation in the community.
-- **Create private threads when moderating individuals**
-    - Rather than publicly call an individual out, prefer to use a private thread to let them know of a rule they broke and to remind them of the rules/to refrain from breaking the rule again.
-    - Private threads can be more advantageous as it allows you to speak one-on-one with the user, and it prevents other users trying to chime in or other conversations from burying your message.
-    - You can also use private threads to have a deeper discussion regarding any continuing problematic behavior of theirs or to request the user change their inappropriate profile picture.
+- **Create private threads to avoid arguments**
+    - If you moderate someone publicly and it becomes a back and forth discussion/argument, or if you feel it could turn into one, you should immediately create a private thread with the user.
+        - An example of when it's better to use a private thread rather than publicly calling a user out is when instances of individual dogpiling occur.
+    - Private threads can also be used to just speak one-on-one with the user without bringing attention on them from other users, to prevent other users from trying to chime in, and to avoid other conversations from burying your message.
+        - A couple of examples include having deeper discussion regarding any continuing problematic behavior of theirs, to request the user change their inappropriate profile picture, or to inform a user of the evolved and problematic/toxic meaning of popular phrases/memes they might be using.
     - If you need to speak to several people at once, such as when multiple people are dogpiling or having an off topic conversation, you should send a blanket message reminding users of the rules or asking users to stop (without calling out anyone specific).
+        - For example, "This sounds like an interesting discussion, but let's take it to `#odin-offtopic` instead."
+        - In cases where multiple users are dogpiling, it can be helpful to create a separate private thread for each user that was dogpiling to explain why their interaction was considered dogpiling.
 - **Temporarily mute users to prevent situations from blowing up**
     - Use Dyno bot to temporarily mute a user, being sure to include a time limit and a reason.
     - Some examples of when you should temporarily mute a user is if they are getting visibily frustrated and taking it out on other users, there is some sort of conflict occurring and you need to shut it down immediately before it gets worse, etc.
@@ -62,6 +65,7 @@ Removal of the role is subject to the discretion of the Core team members and ma
 
 ### Banning
 - Members that are Nitro spammers (or similarly malicious spammers) should have the message screenshotted and posted in the `#chat-mod-actions` channel before banning.
+    - For these "mass spam" users, we don't want their message history to remain intact so Dyno's normal `ban` command should be used.
 - Unless it is for Nitro spam or another egregious act (hate speech, racism, pornography, etc), you should consult with Maintainers and Core before banning a user.
-- Always ban users with Dyno bot's ban commands, as this keeps a history of who was banned, who initiated the ban, and what the reason of the ban was for.
+- Always ban non-Nitro spam users with Dyno bot's `ban save` command, as this keeps their message history, as well as a history of who was banned, who initiated the ban, and what the reason of the ban was for.
 - Dyno bot offers the ability to temporary ban a user for a set period of time, at which point they will automatically be unbanned. Similar to a permanent ban, do not abuse this or temporary ban anyone without consulting with Maintainers and Core.
