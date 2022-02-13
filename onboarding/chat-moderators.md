@@ -23,49 +23,55 @@ Removal of the role is subject to the discretion of the Core team members and ma
 
 - As a moderator, you will be expected to **adhere to** and **uphold** the rules as detailed and maintained in the `#rules` channel in the Discord at all times. 
 - **Change inappropriate nicknames**
-    - User nicknames _should_ adhere to our rules.
-    - Overtly hateful, racist, or sexual names are not tolerated.
-    - If possible, change the user's name to something more appropriate and let the user know of the name change in a private thread
+    - User nicknames must adhere to our rules and cannot be hateful, racist, sexual, etc. in nature, either overtly or vaguely.
+    - If possible, change the user's name to something more appropriate and let the user know of the name change in a private thread.
     - Abuse of this permission will not be tolerated.
+- **Emphasize intent vs impact for disparaging comments**
+    - Users should be reminded that we are an inclusive community, and that their messages will be read by many different types of users.
+    - Users should also be reminded that even if their intent wasn't malicious, other users reading their message may be impacted negatively.
+        - An example of intent vs impact could be someone including a phrase that is hateful in nature towards a group of individuals, with the intent of just making a simple joke, but the impact of that group being targeted by a hateful comment.
 - **Delete applicable messages from all channels and threads.**
-    - Use discretion.
-    - Screenshot all messages to be deleted and post them in the `#chat-mod-actions` channel.
-    - Immediately delete content that breaks rules regarding hate speech, racism, and pornography. 
-    - Use discretion within reason regarding "bad etiquette".
-    - Malicious messages should be deleted.
-        - e.g. If somebody is attempting to get somebody to run `rm -rf /`.
+    - Use discretion whenever deleting a message, and especially regarding "bad etiquette".
+    - Screenshot all messages to be deleted and post them in the `#chat-mod-actions` channel **before** deleting them.
+    - Immediately delete messages that break rules regarding hate speech, racism, and pornography.
+    - Immediately delete messages that require users to download a file, e.g. if a user uploads a JavaScript file instead of a code snippet.
+    - Immediately delete messages that are malicious in nature:
+        - If somebody is attempting to get somebody to run `rm -rf /`.
         - Somebody is looking for help with "phishing" or other illegal activities.
         - Potentially warrants a `loki?` before continuing the user's participation in the community.
 - **Create private threads to avoid arguments**
-    - If you moderate someone publicly and it becomes a back and forth discussion/argument, or if you feel it could turn into one, you should immediately create a private thread with the user.
+    - If you moderate someone publicly and it becomes a back and forth discussion/argument, or if you feel it could turn into one, you should immediately create a private thread with the user. 
         - An example of when it's better to use a private thread rather than publicly calling a user out is when instances of individual dogpiling occur.
-    - Private threads can also be used to just speak one-on-one with the user without bringing attention on them from other users, to prevent other users from trying to chime in, and to avoid other conversations from burying your message.
-        - A couple of examples include having deeper discussion regarding any continuing problematic behavior of theirs, to request the user change their inappropriate profile picture, or to inform a user of the evolved and problematic/toxic meaning of popular phrases/memes they might be using.
-    - If you need to speak to several people at once, such as when multiple people are dogpiling or having an off topic conversation, you should send a blanket message reminding users of the rules or asking users to stop (without calling out anyone specific).
+    - Be sure to mention the user in your initial message when creating the private thread so that they will be able to view and participate in it.
+    - Private threads can also be used to just speak one-on-one with the user without bringing attention to them from other users, to prevent other users from trying to chime in, and to avoid other conversations from burying your message.
+        - Some examples include having deeper discussion regarding any continuing problematic behavior of theirs, to request the user change their inappropriate profile picture, or to inform a user of the evolved and problematic/toxic meaning of popular phrases/memes they might be using.
+    - If you need to speak to several people at once, such as when multiple people are dogpiling or having an off topic conversation, you should send a blanket message reminding users of the rules or asking users to stop (without calling anyone out by name).
         - For example, "This sounds like an interesting discussion, but let's take it to `#odin-offtopic` instead."
-        - In cases where multiple users are dogpiling, it can be helpful to create a separate private thread for each user that was dogpiling to explain why their interaction was considered dogpiling.
+        - In cases where multiple users are dogpiling, it can be helpful to afterwards create a separate private thread for each user that was dogpiling to explain why their interaction was considered dogpiling.
 - **Temporarily mute users to prevent situations from blowing up**
-    - Use Dyno bot to temporarily mute a user, being sure to include a time limit and a reason.
-    - Some examples of when you should temporarily mute a user is if they are getting visibily frustrated and taking it out on other users, there is some sort of conflict occurring and you need to shut it down immediately before it gets worse, etc.
-- **Give users the `NOBOT` role for spamming of the odin-bot commands**
-    - Users with this role will result in the `odin-bot` ignoring any bot commands made by that user.
-    - Examples of what constitutes spamming of the bot commands include giving a user multiple points in the span of a few minutes, running random commands in random channels after being told to use the `#bot-spam-playground`, etc. 
+    - Use Dyno's `mute` command to temporarily mute a user, being sure to include a time limit and a reason in the command.
+        - A couple of examples for when you should temporarily mute a user is if they are getting visibily frustrated and taking it out on other users, or there is some sort of conflict occurring and you need to shut it down immediately before it gets worse.
+- **Give users the `NOBOT` role for spamming odin-bot commands**
+    - Users with this role will result in `odin-bot` ignoring any bot commands made by that user.
+        - A couple of examples of what constitutes spamming of the bot commands include giving a user multiple points in the span of a few minutes, or running random commands in random channels after being told to use the `#bot-spam-playground` channel. 
 - **Give users the `loki?` role for constant rule-breaking and "stern" warnings**
     - The `loki?` role removes a user's permissions such that they can only view the `#please-wait`, `#please-wait-2`, and `#rules` channels.
     - We apply this role to users who we wish to have a private conversation with, as the next step up from private threads, so that they cannot interact with the rest of the server and potentially continue breaking the rules.
-    - The `#please-wait` and `#please-wait-2` channels are public to other members of the team for transparency and is where engagements regarding the rules or general chat conduct should occur, as opposed to direct messages.
+    - The `#please-wait` and `#please-wait-2` channels are public to other members of the team for transparency.
+    - `#please-wait-2` should be used moving forward in order to have engagements regarding the rules or general chat conduct. When `loki?`ing a user, you must create a private thread inside this channel like you would any other channel.
     - Be mindful that the chat history is not preserved from the user perspective. If a user goes offline, when they return the chat history will be removed from their perspective, potentially requiring us to screenshot prior history.
     - When you have given a user the `loki?` role, it is **your** responsibility to restore their privilages to the chat.
 - **Kick users from the discord**
-    - Primarily, due to the inability to adhere to the rules despite being given the `loki?` role and given multiple warnings.
+    - Use Dyno's `kick` command to kick uses who show an inability to adhere to the rules despite being given the `loki?` role and multiple warnings, being sure to include a reason in the command.
     - Users within the community should be met with a warning before kicking is even considered, to give them a chance to correct their behavior.
-    - Exercise 'common sense' discretion when deciding whether to exercise this power.
-    - Kick clear phishers and spammers immediately, with the exception of Nitro or similar spam (see the Banning section further below).
+    - Exercise "common sense" discretion when deciding whether to exercise this power, but do not abuse it.
+    - Immediately kick clear phishers and spammers immediately, with the exception of Nitro or similar mass-spam (see the Banning section further below).
     - Rules are meant to be relaxed, with the exception of **overt** usage of hate speech, racism, or pornography. 
 
 ### Banning
-- Members that are Nitro spammers (or similarly malicious spammers) should have the message screenshotted and posted in the `#chat-mod-actions` channel before banning.
-    - For these "mass spam" users, we don't want their message history to remain intact so Dyno's normal `ban` command should be used.
+- Use Dyno's `ban` command to immediately ban Nitro spammers or similar malicious, mass-spammers, **after taking a screenshot** and posting it in the `#chat-mod-actions` channel.
+    - For these "mass-spam" users, we don't want their message history to remain intact.
 - Unless it is for Nitro spam or another egregious act (hate speech, racism, pornography, etc), you should consult with Maintainers and Core before banning a user.
-- Always ban non-Nitro spam users with Dyno bot's `ban save` command, as this keeps their message history, as well as a history of who was banned, who initiated the ban, and what the reason of the ban was for.
-- Dyno bot offers the ability to temporary ban a user for a set period of time, at which point they will automatically be unbanned. Similar to a permanent ban, do not abuse this or temporary ban anyone without consulting with Maintainers and Core.
+- Use Dyno's `ban save` command when banning non-Nitro spam users, being sure to include a reason in the command.
+    - This command keeps the user's message history intact, and provides a history of who was banned, who initiated the ban, and what the reason of the ban was for.
+    - This command can also be used to temporarily ban a user, as a step up from simply kicking them. The default length of temporary bans should be 10 days.
