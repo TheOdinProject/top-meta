@@ -29,7 +29,7 @@ Removal of the role is subject to the discretion of the Core team members and ma
 - **Emphasize intent vs impact for disparaging comments**
     - Users should be reminded that we are an inclusive community, and that their messages will be read by many different types of users.
     - Users should also be reminded that even if their intent wasn't malicious, other users reading their message may be impacted negatively.
-        - An example of intent vs impact could be someone including a phrase that is hateful in nature towards a group of individuals, with the intent of just making a simple joke, but the impact of that group being targeted by a hateful comment.
+        - An example of intent vs impact could be someone using a phrase that is either explicitly or implicitly hateful in nature towards a group of individuals, with the intent of just making a simple joke, but with the impact of that group being targeted by a hateful comment.
 - **Delete applicable messages from all channels and threads.**
     - Use discretion whenever deleting a message, and especially regarding "bad etiquette".
     - Screenshot all messages to be deleted and post them in the `#chat-mod-actions` channel **before** deleting them.
