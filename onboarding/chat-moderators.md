@@ -1,9 +1,11 @@
 # Chat Moderators
-_This document will serve as the entry point to chat moderation in The Odin Project's Discord community for any new Core, Maintainers, and Moderators._
+_This document will serve as the entry point to chat moderation in The Odin Project's (TOP) Discord community for any new Core, Maintainers, and Moderators._
 
 ## Purpose of Moderator Role
 
-Moderators are representatives of The Odin Project's community who assist with moderating the official Discord server. Moderators help ensure a welcoming, safe, and inclusive community for as many users as possible.
+Moderators are representatives of TOP's community who assist with moderating the official Discord server. Moderators help ensure a welcoming, safe, and inclusive community for as many users as possible.
+
+Moderators of the TOP community are *not* maintainers, and should not act as such. Moderators should not attempt to speak on the behalf of the maintainer team regarding plans for the curriculum or the platform outside of Discord. This does not mean moderators cannot provide their own ideas, suggestions, etc, in our `#contribution-suggestions-bugs-discussions` channel or leave general comments/questions on open issues in our repos. There is a fine line between "Would this approach also work?" and "You should update this to follow this approach instead", for example.
 
 ### Admission and Removal of Role
 
