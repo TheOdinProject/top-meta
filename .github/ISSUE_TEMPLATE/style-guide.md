@@ -15,22 +15,14 @@ This is a brief description of the issue.
   
 ## Acceptance Criteria
 This is the definition of success. If the requirements here are not met, the work effort is not complete.
-- [ ] Lesson/project follows proper format:
-  - [ ] Section headings use `###` syntax.
-  - [ ] Section sub-headings use `####` syntax if not inline, or use `**sub-heading**` (Markdown bold) syntax if inline.
-  - [ ] There is an empty line before and after headings and inline sub-headings, and an empty line at the very end of the lesson/project.
+- [ ] Any requirements noted in the issue description above are met.
+- [ ] The lesson/project uses the correct verbiage and formatting:
   - [ ] Links have meaningful/descriptive names, and are not variations of "click here" or "this article".
   - [ ] Images have a meaningful alt text.
   - [ ] The Introduction section does not contain any content that is not considered introductory content.
-    - [ ] Any non-introductory content, or content considered to be the main content of the lesson/project, is in its own proper section.
-  - [ ] The Assignment section contains only resources to read/watch for lessons, or instructions for completing the project for projects
-    - [ ] All resources required to read/watch to complete a lesson are in the Assignment section.
-  - [ ] Any actual practice (exercises, instructions to code something, etc) is in the Practice section.
-- [ ] Lesson/project sections are ordered correctly when applicable:
-  - [ ] Introduction
-  - [ ] Lesson Overview
-  - [ ] Custom Sections/Pre-Assignment Sections
-  - [ ] Assignment
-  - [ ] Practice
-  - [ ] Knowledge Check
-  - [ ] Additional Resources/Post-Assignment Sections
+    - [ ] Any content considered to be the main content of the lesson/project is in its own custom section.
+  - [ ] The Assignment section contains only valid content:
+    - [ ] Lesson Assignments only have resources to read/watch, and Project Assignments only have required instructions and extra credit instructions.
+  - [ ] All links required to read/watch in order to complete a lesson are in the Assignment section.
+    - [ ] Links not required to read/watch, but related to the lesson content, are in the Additional Resources section.
+  - [ ] Any actual practice within a lesson (exercises, instructions to code something, etc) is in the Practice section.
