@@ -61,7 +61,7 @@ Removal of the role is subject to the discretion of the Core team members and ma
     - We apply this role to users who we wish to have a private conversation with, as the next step up from private threads, so that they cannot interact with the rest of the server and potentially continue breaking the rules.
     - The `#please-wait` and `#please-wait-2` channels are public to other members of the team for transparency.
     - `#please-wait-2` should be used moving forward in order to have engagements regarding the rules or general chat conduct. When `loki?`ing a user, you must create a private thread inside this channel like you would any other channel.
-    - Be mindful that the chat history is not preserved from the user perspective. If a user goes offline, when they return the chat history will be removed from their perspective, potentially requiring us to screenshot prior history.
+    - Be mindful that the chat history is not preserved from the user perspective **in the `#please-wait` channel only**; if a user goes offline, when they return the chat history will be removed from their perspective. The `please-wait-2` channel currently preserves history, which is another reason it should be used moving forward.
     - When you have given a user the `loki?` role, it is **your** responsibility to restore their privilages to the chat.
 - **Kick users from the discord**
     - Use Dyno's `kick` command to kick uses who show an inability to adhere to the rules despite being given the `loki?` role and multiple warnings, being sure to include a reason in the command.
