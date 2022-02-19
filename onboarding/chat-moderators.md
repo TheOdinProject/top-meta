@@ -16,10 +16,10 @@ Removal of the role is subject to the discretion of the Core team members and ma
 ## Chat Responsibilities and Guidelines
 
 ### Take notes of any moderation action
-- The Discord server uses [Dyno bot](https://dyno.gg/bot) to aid in automation of certain moderation tasks,
-- When you moderate a user, you should add a note on the user in the `#chat-mod-actions` channel explaining the rule they broke and what action was taken (e.g. warned, threaded, etc).
+- The Discord server uses [Dyno bot](https://dyno.gg/bot) to aid in automation of certain moderation tasks. You can check out some of the available [Dyno commands](https://dyno.gg/commands) and what parameters are required/available when using them.
+- Before moderating a user, check whether they have any prior notes with Dyno's `?notes` command in the `#chat-mod-actions` channel.
+- When you moderate a user, you should add a note on the user with Dyno's `?note` command in the `#chat-mod-actions` channel explaining the rule they broke and what action was taken (e.g. warned, threaded, etc).
 - You can include links to messages in another channel within user notes, if you feel the context of the message is relevant to the note.
-- You can check out some of the available [Dyno commands](https://dyno.gg/commands), but the ones you will most likely be using most often are `?notes` and `?note`.
 
 ### Maintain, follow, and enforce rules
 
