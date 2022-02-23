@@ -63,3 +63,9 @@ Being that contributions will vary in substance and frequency, the Core team wil
         - If no one has reviewed the PR, you are welcome to post it in the #review-requests channel to bring it to everyone's attention.
         - If the contributor has made the requested changes without requesting another review, you should request it for them on GitHub.
     - If a PR was made by another maintainer only approve it, don't merge it. On the team we merge our own PRs.
+
+### Attend Meetings
+
+- Subscribe to the group Google Calendar (link pinned in the maintainer-discussions channel of the discord)
+- Meetings are generally held twice a month
+- Attendance is not *required* but is strongly encouraged whenever you're able to attend.
