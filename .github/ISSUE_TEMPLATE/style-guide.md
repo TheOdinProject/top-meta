@@ -20,9 +20,10 @@ This is the definition of success. If the requirements here are not met, the wor
   - [ ] Links have meaningful/descriptive names, and are not variations of "click here" or "this article".
   - [ ] Images have a meaningful alt text.
   - [ ] The Introduction section does not contain any content that is not considered introductory content.
-    - [ ] Any content considered to be the main content of the lesson/project is in its own custom section.
+    - [ ] Any content considered to be the main content of the lesson/project is moved to its own custom section or an existing custom section.
   - [ ] The Assignment section contains only valid content:
-    - [ ] Lesson Assignments only have resources to read/watch, and Project Assignments only have required instructions and extra credit instructions.
+    - [ ] Lesson Assignments only have resources to read/watch or instructions for exercises, coding something, or returning to a previous project.
+    - [ ] Project Assignments only have required instructions and extra credit instructions.
+    - [ ] Any content that does not relate to the above is either moved to a more applicable section, or removed.
   - [ ] All links required to read/watch in order to complete a lesson are in the Assignment section.
     - [ ] Links not required to read/watch, but related to the lesson content, are in the Additional Resources section.
-  - [ ] Any actual practice within a lesson (exercises, instructions to code something, etc) is in the Practice section.
