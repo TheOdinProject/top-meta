@@ -3,6 +3,8 @@ This matrix correlates with the [Community Rules](https://www.theodinproject.com
 
 This matrix is not all encompassing and zaps are given at the discretion of the moderator team. Zaps are private to the user and the moderation team, and are distributed through Dyno. Zaps accumulate over time if rules continue to be broken.
 
+10 total zaps result in a ban. 
+
 ## 0 Zaps (Heads Up)
 - Dog piling/short circuiting a teaching moment (E.g jumping in to help when someone else is already helping out, giving an answer when someone is leading someone to think critically about their problem)
 - Asking about or encouraging the use of Windows
