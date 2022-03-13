@@ -39,7 +39,7 @@ Medium severity violations such as:
 
 ## 5 Zaps (SEVERE WARNING)
 High severity violations such as: 
-- Posting about any illegal activities, such as facilitating piracy 
+- Posting about any illegal activities
 - Publicly arguing about receiving moderation activity after being asked to take it to ModMail/discuss privately 
 - Excessive toxicity (targeted harassment, inciting drama, aggressively arguing purposefully, etc.) 
 
@@ -54,6 +54,7 @@ Extreme severity violations such as:
   - Repeated random nonsensical messages (copypasta)
 - Doxxing 
 - Any other behavior deemed unacceptable and deserving of a ban by the moderation team
+- Piracy
 
 Zaps decay at a rate of 1 zap per week. E.g., if you receive 5 zaps on a Friday, the following Friday you will have 4, the Friday after that you will have 3, and so forth. This means higher level infractions remain on record for a longer period of time, and more strongly jeopardize your ability to participate in the server if rules are continued to be broken. 
 
