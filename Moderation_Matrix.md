@@ -1,7 +1,7 @@
 # Moderation Matrix
 This matrix correlates with the [Community Rules](https://www.theodinproject.com/community_rules) that are required to be followed in order to participate in the community. Some rules have different levels of severity, so you may see references to them under different numbers of zaps. 
 
-This matrix is not all encompassing and zaps are given at the discretion of the moderator team. Zaps are private to the user and the moderation team. Zaps accumulate over time if rules continue to be broken.
+This matrix is not all encompassing and zaps are given at the discretion of the moderator team. Zaps are private to the user and the moderation team, and are distributed through Dyno. Zaps accumulate over time if rules continue to be broken.
 
 ## 0 Zaps (Heads Up)
 - Dog piling/short circuiting a teaching moment (E.g jumping in to help when someone else is already helping out, giving an answer when someone is leading someone to think critically about their problem)
@@ -81,4 +81,7 @@ While we love having a community that can hold one another accountable and point
 Jacob should have instead reported this to @ModMail so the proper individuals can notify Darius of the rules in private. 
 
 This is not a comprehensive list of all possible scenarios and zaps are made at the discretion of the moderation team if particular behaviors are inappropriate but not otherwise explicitly covered. Please DM @ModMail if you would like to discuss this matrix or any moderation activity (whether you are on the receiving end or not). 
+
+## Regarding the Moderation Team
+The moderation team, as well as the Core and Maintainer team, are also subject to the rules. If you see any issues amongst the team, please report it to @ModMail with a link to the issue and brief description of what you feel may have been violated. *Please do not argue publicly, take it to the correct channels of communication to deal with this.* Please note that the entire TOP team has visibility on ModMail. If it makes you more comfortable, you may DM one member of the team with your concerns, or email the team at theodinproject@gmail.com. 
 
