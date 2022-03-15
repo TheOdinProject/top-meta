@@ -7,6 +7,10 @@ Moderators are representatives of TOP's community who assist with moderating the
 
 Moderators of the TOP community are *not* maintainers, and should not act as such. Moderators should not attempt to speak on the behalf of the maintainer team regarding plans for the curriculum or the platform outside of Discord. This does not mean moderators cannot provide their own ideas, suggestions, etc, in our `#contribution-suggestions-bugs-discussions` channel or leave general comments/questions on open issues in our repos. There is a fine line between "Would this approach also work?" and "You should update this to follow this approach instead", for example.
 
+## Settings 
+
+- Please ensure you have 2FA authentication enabled so you will have access to the moderation options for the discord. You can find the discord guide for 2FA [here](https://support.discord.com/hc/en-us/articles/219576828-Setting-up-Two-Factor-Authentication).
+
 ### Admission and Removal of Role
 
 Moderators, and those wishing to be considered for the Moderator role, are expected to have a history of regular and positive contributions to The Odin Project Discord community. Chat moderators are members of the community that illustrate and personify what it means to create a positive impact by abiding by the rules, extending help to others in regards to the community,  having a willingness to hold both themselves and others accountable within the community, and motivating others to create a positive environment.

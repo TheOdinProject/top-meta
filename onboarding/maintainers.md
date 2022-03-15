@@ -4,6 +4,10 @@
 
 Maintainers are representatives of The Odin Project community who assist with moderating the official Discord server and the management of processes on the Github account.
 
+## Settings 
+
+- Please ensure you have 2FA authentication enabled so if a situation arises in which you need to moderate you will be able to do so. You can find the discord guide for 2FA [here](https://support.discord.com/hc/en-us/articles/219576828-Setting-up-Two-Factor-Authentication).
+
 ### Admission and Removal of Role
 
 Maintainers, and those wishing to be considered for the Maintainer role, are expected to have a record of regular and positive contributions to The Odin Project community. Maintainers are expected to make contributions to The Odin Project curriculum and provide support for the Discord server.
