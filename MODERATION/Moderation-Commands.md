@@ -8,6 +8,7 @@ This is the primary command that will be used to enforce the [Moderation Matrix]
 ```
 ?warn  [user] [reason] [link to private thread or message] Zaps received: [zaps] Total Zaps: [total zaps]
 ```
+If Dyno is unable to warn them, use a ?note with the above text and DM the user using the same text. If their DMs are closed, let them know in the private thread.
 
 ## `?warnings`
 [Docs](https://wiki.dyno.gg/en/commands/warning)
