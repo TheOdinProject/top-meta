@@ -32,8 +32,13 @@ This command lists all of the running notes about an individual. This should be 
 ## `?ban`
 [Docs](https://wiki.dyno.gg/en/commands/ban)
 
-This is the most critical moderation command **and must be done CAREFULLY!** We almost always want to preserve chat history for posterity so you must use the `save` option in order to retain it. Timed bans are issued for 10 days and should only be issued when a user has not made severe 10 zap infractions or garnered 10 zaps, but instead is exhibiting minor infractions repeatedly such as help vampirism, mild toxicity (rudeness/frustration let out on helpers, too many off color comments, mild unprofessionalism for a sustained amount of time etc). Otherwise, bans are permanent by default.
+This is the most critical moderation command **and must be done CAREFULLY!** We almost always want to preserve chat history for posterity so you must use the `save` option in order to retain it except for spammers. Timed bans are issued for 10 days and should only be issued when a user has not made severe 10 zap infractions or garnered 10 zaps, but instead is exhibiting minor infractions repeatedly such as help vampirism, mild toxicity (rudeness/frustration let out on helpers, too many off color comments, mild unprofessionalism for a sustained amount of time etc). Otherwise, bans are permanent by default.
 
+
+For Nitro spammers or similar malicious, mass-spammers, after taking a screenshot and posting it in the #chat-mod-actions channel.
+```
+?ban [user] (reason)
+```
 
 ```
 ?ban save [user] (limit) (reason)
