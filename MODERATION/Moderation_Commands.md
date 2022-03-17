@@ -3,7 +3,7 @@
 ## `?warn`
 [Docs](https://wiki.dyno.gg/en/commands/warn)
 
-This is the primary command that will be used to enforce the [Moderation Matrix](https://github.com/TheOdinProject/top-meta/blob/main/Moderation_Matrix.md). This command is both user facing and internally facing. The user will receive a DM with the warning, and we will be able to access a list of warnings a user has received through the [?warnings](https://wiki.dyno.gg/en/commands/warnings) command. Use the below format to warn users. Always include a link to the private thread because while a user may not be able to see it if the thread is in `please-wait`, it is important for us to quickly access these threads.
+This is the primary command that will be used to enforce the [Moderation Matrix](https://github.com/TheOdinProject/top-meta/blob/main/MODERATION/Moderation_Matrix.md). This command is both user facing and internally facing. The user will receive a DM with the warning, and we will be able to access a list of warnings a user has received through the [?warnings](https://wiki.dyno.gg/en/commands/warnings) command. Use the below format to warn users. Always include a link to the private thread because while a user may not be able to see it if the thread is in `please-wait`, it is important for us to quickly access these threads.
 
 ```
 ?warn  [user] [reason] [link to private thread] Zaps received: [zaps] Total Zaps: [total zaps]
