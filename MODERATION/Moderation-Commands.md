@@ -39,7 +39,7 @@ For Nitro spammers or similar malicious, mass-spammers, after taking a screensho
 ```
 ?ban [user] (reason)
 ```
-
+Otherwise:
 ```
 ?ban save [user] (limit) (reason)
 ```
