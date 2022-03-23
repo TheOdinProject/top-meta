@@ -11,6 +11,7 @@ This matrix is not all encompassing and zaps are given at the discretion of the 
 - "Chat bombing", aka posting many short (ususally 4-5 or fewer words) messages in rapid succession, repeatedly sending parts of thoughts (incomplete, non-standalone sentences or fragments) in new messages. (Use shift + enter and send ONE message where possible or edit your message) 
 - Discussing mental health issues in depth or seeking mental health help from other users
 - Inappropriate usernames and profile pictures (E.g. suggestive or inappropriate memes)
+- Cross-Posting
 
 ## 1 Zap (WARNING) 
 Minor violations such as:
@@ -78,7 +79,7 @@ While we love having a community that can hold one another accountable and point
 **Scenario:**
 
 1. Darius posts a question about Rock Paper Scissors in #odin-general and in #javascript-help-1
-2. Jacob replies to Darius saying, "No crossposting, see the #rules"
+2. Jacob replies to Darius saying, "No cross-posting, see the #rules"
 3. Darius is now upset because of the terseness of Jacob's reply and the two are now arguing.
 
 Jacob should have instead reported this to @ModMail so the proper individuals can notify Darius of the rules in private. 
