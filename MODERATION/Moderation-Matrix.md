@@ -37,7 +37,7 @@ Medium severity violations such as:
   - Naming & shaming
 - Self promo without permission (ask with Modmail)
   - Do not share resources you have created solely for personal or monetary gain
-  - Examples: "Fill out my survey" (does not help the goals of Odin), "Join my boot camp/program/server" (Could mislead learners), "Why PHP is superior" (unrelated blog post)
+  - Examples: "Fill out my survey" (does not help the goals of Odin), "Join my boot camp/program/server" (Could mislead learners), "Why PHP is superior" (unrelated blog post), job recruitment 
 
 ## 5 Zaps (SEVERE WARNING)
 High severity violations such as: 
