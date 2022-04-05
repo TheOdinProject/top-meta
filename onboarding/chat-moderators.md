@@ -28,9 +28,9 @@ Removal of the role is subject to the discretion of the Core team members and ma
 ### Maintain, follow, and enforce rules
 
 - As a moderator, you will be expected to **adhere to** and **uphold** the rules as detailed and maintained in the `#rules` channel in the Discord at all times. 
-- **Following the matrix**
-    - When enforcing rules **following the matrix is NOT optional** and should be used to determine when a user should be banned and enforcement of rules should be done in line with the matrix.
-    - If you notice a potential rule break it's important to consider the context and ensure that when enforcement occurs it is in line with the [matrix](https://github.com/TheOdinProject/top-meta/blob/main/MODERATION/Moderation-Matrix.md) and uses the zap system from the matrix.
+- **Follow the [moderation matrix](https://github.com/TheOdinProject/top-meta/blob/main/MODERATION/Moderation-Matrix.md)**
+  - If you notice a potential rule break it can be important to consider the context. What might look like an unsolicited ping might be innocent rapport between two users who have a history with one another. Use your discretion when deciding if a user should be actioned for something or not.
+    - When you do action a user, **following the moderation matrix is NOT optional**. The moderation matrix must be used to determine what zap level a user should receive for a particular rule break, and zap levels should not be skipped under any circumstances. If you disagree with the matrix please propose a change to it in the proper channel.
 - **Change inappropriate nicknames**
     - User nicknames must adhere to our rules and cannot be hateful, racist, sexual, etc. in nature, either overtly or vaguely.
     - If possible, change the user's name to something more appropriate and let the user know of the name change in a private thread.
