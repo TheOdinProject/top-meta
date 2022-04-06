@@ -10,7 +10,7 @@ This matrix is not all encompassing and zaps are given at the discretion of the 
 - Asking about or encouraging the use of Windows
 - "Chat bombing", aka posting many short (ususally 4-5 or fewer words) messages in rapid succession, repeatedly sending parts of thoughts (incomplete, non-standalone sentences or fragments) in new messages. (Use shift + enter and send ONE message where possible or edit your message) 
 - Discussing mental health issues in depth or seeking mental health help from other users
-- Inappropriate usernames and profile pictures (E.g. suggestive or inappropriate memes)
+- Inappropriate User Profile - Profile Picture, Username/Nickname, Bio (E.g. suggestive or inappropriate memes)
 
 ## 1 Zap (WARNING) 
 Minor violations such as:
