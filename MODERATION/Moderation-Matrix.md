@@ -20,7 +20,7 @@ Minor violations such as:
   - Enforcement of any of the rules instead of notifying moderators (see example below)
   - Please leave moderation action to the moderators
   - Use ModMail to report rule breaking or if you see something you’re unsure about in the community
-- Asking for advice/help on projects unrelated to The Odin Project, or asking about topics unrelated to our Discord channels
+- Asking for advice/help on homework or personal projects, even if the topic is covered by our curriculum
 - Mild unprofessionalism:
   - Drug related conversation 
   - Treating others on the server disrespectfully
