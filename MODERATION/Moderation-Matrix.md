@@ -45,7 +45,7 @@ High severity violations such as:
 - Posting about any illegal activities
 - Publicly arguing about receiving moderation activity after being asked to take it to ModMail/discuss privately 
 - Excessive toxicity (targeted harassment, inciting drama, aggressively arguing purposefully, etc.) 
-- Plagiarism (Stealing other learners' work)
+- Plagiarism (for example: Stealing other learners' work)
 
 ## 10 Zaps (Immediate Ban)
 Extreme severity violations such as: 
