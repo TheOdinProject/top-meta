@@ -70,17 +70,21 @@ Removal of the role is subject to the discretion of the Core team members and ma
     - `#please-wait-2` should be used moving forward in order to have engagements regarding the rules or general chat conduct. When `loki?`ing a user, you must create a private thread inside this channel like you would any other channel.
     - Be mindful that the chat history is not preserved from the user perspective **in the `#please-wait` channel only**; if a user goes offline, when they return the chat history will be removed from their perspective. The `please-wait-2` channel currently preserves history, which is another reason it should be used moving forward.
     - When you have given a user the `loki?` role, it is **your** responsibility to restore their privilages to the chat.
-- **Kick users from the discord**
-    - Use Dyno's `kick` command to kick uses who show an inability to adhere to the rules despite being given the `loki?` role and multiple warnings, being sure to include a reason in the command.
-    - Users within the community should be met with a warning before kicking is even considered, to give them a chance to correct their behavior.
-    - Exercise "common sense" discretion when deciding whether to exercise this power, but do not abuse it.
-    - Immediately kick clear phishers and spammers immediately, with the exception of Nitro or similar mass-spam (see the Banning section further below).
-    - Rules are meant to be relaxed, with the exception of **overt** usage of hate speech, racism, or pornography. 
 
 ### Banning
-- Use Dyno's `ban` command to immediately ban Nitro spammers or similar malicious, mass-spammers, **after taking a screenshot** and posting it in the `#chat-mod-actions` channel.
-    - For these "mass-spam" users, we don't want their message history to remain intact.
-- Unless it is for Nitro spam or another egregious act (hate speech, racism, pornography, etc), you should consult with Maintainers and Core before banning a user.
-- Use Dyno's `ban save` command when banning non-Nitro spam users, being sure to include a reason in the command.
+
+#### Permanent Bans
+- **After taking a screenshot**, use Dyno's `ban` command to immediately ban Nitro spammers or similar malicious, mass-spammers, then post the screenshot in the `#chat-mod-actions` channel.
+    - For these "mass-spam" users, we don't want their message history to remain intact, as we don't want the malicious links being visible for other users to fall victim to.
+- Unless it is for Nitro spam or another egregious act (hate speech, racism, pornography, etc), you should consult with Maintainers and Core before banning a user permanently.
+- Use Dyno's `ban save` command when permanently banning non-Nitro spam users that have accumulated 10+ zaps, being sure to include a reason in the command.
     - This command keeps the user's message history intact, and provides a history of who was banned, who initiated the ban, and what the reason of the ban was for.
-    - This command can also be used to temporarily ban a user, as a step up from simply kicking them. The default length of temporary bans should be 10 days.
+
+#### Temporary Bans
+- Dyno's `ban` and `ban save` commands can accept an optional time limit argument, which makes the ban temporary.
+    - If a user has not accumulated 10+ zaps to warrant a permanent ban, the following situations can warrant a temporary ban (this is not a complete list, so use your best judgement and discretion):
+        - A user is technically not breaking a rule, but is constantly pushing those boundaries
+        - A user shows no signs of change or improvement after being given the `loki?` role and multiple warnings
+        - A user is otherwise conducting in problematic, toxic, or unprofessional behavior
+        - A user is clearly phishing or spamming non-malicious material (e.g. self promoting without permission)
+- By default, we issue temporary bans with a time limit of **10 days**
