@@ -2,7 +2,7 @@
 
 This social contract is created, altered, and maintained by the team and should be reviewed regularly. It’s our by-laws. People need to be held accountable to these and anyone joining needs to accept the contract and understand that they will be called out for not following it. 
 
-Following social contract should be one of the considerations of “performance grading” for Core / Maintainer. 
+Following social contract should be one of the considerations of “performance grading” for staff. 
 
 - Remember there is a real human being on the other side of the screen. 
 - Assume positive intent.
@@ -10,7 +10,7 @@ Following social contract should be one of the considerations of “performance 
 - Be fair, be kind, and be gracious.
 - Keep the mission of The Odin Project above your personal ambitions. 
 - Consider your peers as the professionals they are. Your experience does not trump others. 
-- Embrace the unique differences on the team and learn from each other to be a better Core/Maintainer member, and even beyond TOP. 
+- Embrace the unique differences on the team and learn from each other to be a better staff member, and even beyond TOP. 
 - Be aware of difficulties of typed communication where tone and voice are hard to interpret. Keep use of sarcasm, emojis, slang to a minimum during more serious discussions. 
 - Healthy conflict where others opinions are heard is welcome, but we should avoid it turning into personal fighting, insulting or sarcasm.
 - Stay true to your promises. Communicate clearly when you can’t keep up or deliver what is promised. No shame in that. 
@@ -23,7 +23,7 @@ Following social contract should be one of the considerations of “performance 
 ---
 
 # Communication    
-- Communicate absences. For different reasons, related to work, studies, family, etc. there will be periods of time where a Core member can not commit to the demands of TOP and its community, either as much as one would like or as much as is needed. However, this should be the exception, not the rule.
+- Communicate absences. For different reasons, related to work, studies, family, etc. there will be periods of time where a staff member can not commit to the demands of TOP and its community, either as much as one would like or as much as is needed. However, this should be the exception, not the rule.
 - Propose changes to function or form of The Odin Project
   - Curriculum Changes
   - Moderation strategy
