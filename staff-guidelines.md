@@ -19,6 +19,7 @@ Following social contract should be one of the considerations of “performance 
 - Communicate prolonged absences as defined per role expectations.
 - Opinions change, people should respect that but also be ready to defend yourself when pressed on the topic, but it must all be done respectfully.
 - People have a right to their opinions, if the explanation of their opinion is not to your liking, you must still respect that outcome. Defer to voting if necessary
+-  These behaviors and expectations extend to private messaging and discussions within privileged access channels 
 
 ---
 
