@@ -34,6 +34,16 @@ Following social contract should be one of the considerations of “performance 
 - People have a right to their opinions, if the explanation of their opinion is not to your liking, you must still respect that outcome. Defer to voting if necessary
 
 ---
+# Procedure for reporting concerns about Odin Leadership.
+
+Leadership in this case encompasses Core, Maintainer or Moderators.  Concerns can include, but should not be limited to infractions against the Social Contract, expectations listed here, and Discord rule infractions.
+
+- Because of the likelyhood that the offending person is likely to be able to see any complaint against them, reports against Odin leadership should begin in a **Direct Message to at least 2 non-offending Core members**.
+- Those core members will bring the concern to the rest of the core team, minus the person in question and the issue will be dealt with.
+- The core team, minus the person in question, may create a group DM thread with the reporter to ask clarifying questions or request evidence of the reported infraction
+- The reporter of the infraction should not expect to recieve details of any action the Core team decides to take.
+
+---
 
 # Core Expectations
 
