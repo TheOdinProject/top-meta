@@ -4,6 +4,7 @@ This social contract is created, altered, and maintained by the team and should 
 
 Following social contract should be one of the considerations of “performance grading” for staff. 
 
+-  These behaviors and expectations extend to private messaging and discussions within privileged access channels 
 - Remember there is a real human being on the other side of the screen. 
 - Assume positive intent.
 - Be honest, transparent, and respectful.
