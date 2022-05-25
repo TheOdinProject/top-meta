@@ -40,9 +40,9 @@ Leadership in this case encompasses Core, Maintainer or Moderators.  Concerns ca
 
 - Regardless of where a report originates, all reports concerning a staff member (Core, Maintainer or Moderator) should ultimately be handled by the Core team.
 - Because of the likelyhood that the offending person is likely to be able to see a report against them, reports against Odin leadership should begin in a **Direct Message to at least 2 non-offending Core members**.
-- Should a user not feel comfortable approaching a core member, it is appropriate and acceptable for them to Direct Message any other staff member (Maintainer or Moderator) who will then escalate the complaint in a Direct Message to 2 non-offending Core members, as outlined above.
-- Those core members will bring the concern to the rest of the core team, minus the person in question and the issue will be dealt with.
-- The core team, minus the person in question, may create a group DM thread with the reporter to ask clarifying questions or request evidence of the reported infraction
+- Should a user not feel comfortable approaching a Core member, it is appropriate and acceptable for them to Direct Message any other staff member (Maintainer or Moderator) who will then escalate the complaint in a Direct Message to 2 non-offending Core members, as outlined above.
+- Those Core members will bring the concern to the rest of the core team, minus the person in question and the issue will be dealt with.
+- The Core team, minus the person in question, may create a group DM thread with the reporter to ask clarifying questions or request evidence of the reported infraction
 - If a report has not been responded to in a timely manner (within 24 hours), it is acceptable and appropriate to either ask for a follow-up, or take the report to another staff member.
 - The reporter of the infraction should not expect to recieve details of any action the Core team decides to take, but is entitled to some confirmation that the report has been recieved and appropriately escalated.
 
