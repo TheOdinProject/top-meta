@@ -32,3 +32,23 @@ Following social contract should be one of the considerations of “performance 
   - Initiatives (e.g. Gamejams, TOPathons, Fireside chats)
   - Etc.
 - Communications should happen on a semi-regular cadence
+
+---
+
+# Procedure for reporting a concern with an Odin Staff Member.
+
+Odin staff members include all members of the Core, Maintainer and Moderators Teams. Concerns can include, but should not be limited to infractions against the Social Contract, team expectations, and Discord rule infractions.
+
+## How to make a report
+
+1. Send a Direct Message to at least 2 non-offending Core members
+2. Submit an anonymous or nonanonymous [form](https://dyno.gg/form/aef8feab) that is visible to all Core members.
+
+Regardless of where a report originates, each report will all be handled by non-offending Core members.
+
+## Follow-up for nonanonymous reports
+
+- The reporter should receive confirmation that the report has been received in a timely manner (within 24 hours).
+- If you do not receive this confirmation, it is acceptable and appropriate to either ask for a follow-up or send the report to another staff member.
+- The non-offending Core members may create a group DM with the reporter to ask clarifying questions or request evidence of the reported infraction.
+- The reporter will be given confirmation that their report has been addressed and appropriately escalated. This confirmation will not include extensive details of actions taken.
