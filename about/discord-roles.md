@@ -28,4 +28,10 @@ These roles have **no moderation** privileges.
 These roles have **no moderation privileges**. They are used to highlight specific background our community members have. 
 
 
-- **Professional** - We have members of our community that are here to help others to grow, because they are employed in a software engineering role. We wanted to highlight those individuals so that their experiences in the workplaces helps others make more educated decisions. This role is up to the **discretion of the Core team**. It does require a verification step, and the admittance is *not guaranteed*. 
+- **Professional** - This role may be available but not limited to professionally employed software engineers, developers, QA engineers or those with a professional history of developing who are still employed as developer managers and/or project managers. 
+
+This typically means the role is not available for designers and product managers or anyone with a role that is not directly impacted by The Odin Project curriculum. This role is up to the **discretion of The Odin Project staff** and admittance is **not guaranteed**. 
+
+Individuals with the Professional role are intended to help other learners grow by highlighting their experiences in the workplace. This means properly guiding learners and being familiar with The Odin Project curriculum. Professionals should refrain from giving advice that does not align with the curriculum or pulls learners beyond what they should know at a specific project.
+
+The Professional role requires a verification step and is **not guaranteed**. Community members in good standing within the Discord community can message @ModMail with their LinkedIn account or email theodinprojectcontact@gmail.com from their company email address. If this is a new role, members must have either started the position or have a signed contract.
