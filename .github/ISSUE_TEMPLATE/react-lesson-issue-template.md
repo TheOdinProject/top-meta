@@ -2,7 +2,7 @@
 name: React Revamp Lesson Issue Template
 about: Template for creating new lesson issues for the React Revamp project
 title: 'Lesson: Name'
-labels: Project: React Revamp 
+labels: 'Project: React Revamp'
 assignees: ''
 
 ---
