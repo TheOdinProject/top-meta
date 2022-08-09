@@ -2,7 +2,7 @@
 name: React Revamp Lesson Issue Template
 about: Template for creating new lesson issues for the React Revamp project
 title: 'Lesson: Name'
-labels: react-revamp 
+labels: Project: React Revamp 
 assignees: ''
 
 ---
@@ -15,7 +15,6 @@ assignees: ''
 
 ## Lesson Overview
 
-Quick Overview of Lesson
 
 asdf
 
@@ -34,8 +33,24 @@ If the requirements here are not met, the work effort is not complete.
 
 ## Additional Information
 
+### Get The Lesson Template
+
 Download the lesson template using the following command (replace lesson_name with the actual lesson name):
 
 ```bash
 curl -o <lesson_name>.md https://raw.githubusercontent.com/TheOdinProject/curriculum/main/templates/lesson-template.md 
 ```
+
+### Adding Interactive Examples
+
+We'll use [CodeSandbox](https://codesandbox.io/dashboard) for interactive examples. To add these examples, follow the instructions in the [react-examples](https://github.com/TheOdinProject/react-examples) repository and create a Pull Request there. When approved, the example will eventually be uploaded to CodeSandbox. In the meantime, leave a placeholder in the lesson file like so:
+
+```
+// some lesson content
+
+**EXAMPLE GOES HERE**
+
+// some lesson content
+
+```
+
