@@ -36,6 +36,29 @@ Following social contract should be one of the considerations of “performance 
 - Communications should happen on a semi-regular cadence
 
 
+## Nominating a New Staff Member
+
+### Process
+
+In a team-specific channel, make a post nominating a person to join the team with the reasons why you think this person would be a great fit. Create a thread for any relevant conversation. When you think the team is ready to vote, create a poll.
+
+If the vote passes by a super majority (> 75%), the person that nominated the new person (or the person that will be extending the invitation to join the team) should make note of any concerns and encouraging comments shared in threads in the team-specific channel AND in #staff-interest-submissions to share with the new staff member.
+
+As an example to share this type of information, "We are excited to invite you to be a member of the ___ team. You deserve to be a part of this team and everyone is onboard with it. Here is what the job entails. Here are the things that we like and think that you bring to the table. Here are some of our concerns that we want you to be aware of. Welcome to the team!"
+
+**Before giving the role to the new staff member, these threads should be deleted.**
+
+### Using #staff-interest-submissions
+
+Keep the discussion in #staff-interest-submissions threads focused on any personal experience with the person with specific examples showing their helpfulness in Discord or contributions on GitHub.
+
+Everyone can be open and honest sharing any concerns, without fear of that person reading it 6+ months later when circumstances may have changed.
+
+### Team-Specific Conversation
+
+The best place to have team-specific conversation could be #polls-maintainer or #moderation-proposals. But each team is welcome to make a new channel or designate a different channel for this purpose.
+
+
 ## Procedure for reporting a concern with an Odin Staff Member.
 
 Odin staff members include all members of the Core, Maintainer and Moderator teams. Concerns include but are not limited to infractions against the Social Contract, team expectations, and Discord rule infractions.
