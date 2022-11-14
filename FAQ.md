@@ -99,7 +99,7 @@ Nope, this is run by the community, for the community without pay of any sort.
 
 **How can I help others solve their coding problems?** 
 
-Read the following tips [here](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/join-the-odin-community#how-to-help-others-solve-coding-problems). 
+Read our [guide on helping others solve coding problems](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/join-the-odin-community#how-to-help-others-solve-coding-problems). 
 
 **How should I ask questions?**
 
@@ -111,7 +111,7 @@ Our curriculum will recommend books when the time is right. If you haven't come 
 
 **How can I get the "professional" role?**
 
-The "professional" role is limited to those who are verified industry professionals such as software engineers, software developers, web developers, and other associated software development team roles. Please fill out [this form](https://dyno.gg/form/ad2fdb2f) to apply for the role.
+The "professional" role is limited to those who are verified industry professionals such as software engineers, software developers, web developers, and other associated software development team roles. Please fill out this [form to apply for the professional role](https://dyno.gg/form/ad2fdb2f).
 
 **What is the "studying" voice channel?** 
 
