@@ -19,7 +19,7 @@
 
 **What does "TOP" mean?**
 
-TOP is the abbreviation of The Odin Project
+TOP is the abbreviation for The Odin Project
 
 **Can TOP help get me a job?**
 
