@@ -23,7 +23,7 @@ TOP is the abbreviation of The Odin Project
 
 **Can TOP help get me a job?**
 
-We do not offer job services, however, completing TOP means you have the skills and qualifications to find a job, see <#669547324707569665> and the getting hired section of the curriculum. <#1013804065169346631> are also a good source of motivation.
+We do not offer job services. However, if you have completed TOP, you have the skills and qualifications needed to find a job. See <#669547324707569665> and the [getting hired section of the curriculum](https://www.theodinproject.com/paths/full-stack-javascript/courses/getting-hired) for advice on the job search. <#1013804065169346631> are also a good source of motivation.
 
 **Does TOP give certificates?**
 
@@ -43,7 +43,7 @@ Almost always no. Do not assume you have permission. We may entertain things tha
 
 **How long does TOP take?**
 
-There is no data on this information, between 3 months and 3 years seems to be the range. More info [here](https://discord.com/channels/505093832157691914/505093832157691916/765633002393829389).
+There is no data on this information, between 3 months and 3 years seems to be the range. Read this [great message about the time it may or may not take](https://discord.com/channels/505093832157691914/505093832157691916/765633002393829389) for more info.
 
 **Can I contribute?**
 
@@ -59,7 +59,7 @@ Unless it is Thinkful, no. [Read here for more information](https://discord.com/
 
 **Does TOP teach Python or any other language?**
 
-Visit [our website](https://www.theodinproject.com/ "our website") to see what is covered, and also read [this](https://discord.com/channels/505093832157691914/505093832157691916/739908597873508454).
+Visit [our website](https://www.theodinproject.com) to see what is covered, and also read this [message on learning programming instead of specific programming languages](https://discord.com/channels/505093832157691914/505093832157691916/739908597873508454).
 
 **Which path should I take? / What language should I learn?**
 
@@ -71,7 +71,7 @@ You should start at the beginning and not skip, even if you feel you are experie
 
 **Should I take notes?** 
 
-Mostly, no. Understanding > memorization. Read more information [here](https://discord.com/channels/505093832157691914/505093832157691916/768161823366578176).
+Mostly, no. Understanding > memorization. This [message on note-taking](https://discord.com/channels/505093832157691914/505093832157691916/768161823366578176) is a great read on the topic.
 
 **Do I need a degree to get a job?**
 
@@ -79,7 +79,7 @@ Generally no, however a degree can help you get past some non-understanding HR p
 
 **Should I do multiple courses at the same time?** 
 
-No. [See this for more information](https://discord.com/channels/505093832157691914/505093832157691916/778727680438698055). 
+We strongly advice against this. For more context on our opinion, read this [message on doing multiple courses at the same time](https://discord.com/channels/505093832157691914/505093832157691916/778727680438698055). 
 
 **Is there an Odin dark theme?** 
 
@@ -87,7 +87,7 @@ Yup! If you are not logged in, you will see a little moon and sun icon in the to
 
 **Is TOP hard?** 
 
-Very, but that doesn't mean you can't do it. Learning programming in general is tough, no matter where you go. Grit is something you will need to develop to get through it, read about it [here](https://en.wikipedia.org/wiki/Grit_(personality_trait)). 
+Very, but that doesn't mean you can't do it. Learning programming in general is tough, no matter where you go. In order to get through it, you'll need to develop [grit](https://www.ted.com/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance)
 
 **Does the TOP staff get paid?** 
 
