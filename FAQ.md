@@ -95,7 +95,7 @@ Nope, this is run by the community, for the community without pay of any sort.
 
 **What is a "help vampire" or "vamp"?** 
 
-[This](http://slash7.com/2006/12/22/vampires/) is actually a really good read about one of the biggest problems that exists in online communities. Simply asking questions does not make a help vampire. 
+Help vampires are very common but also very detrimental to online communities. This [article on recognizing help vampire behavior](http://slash7.com/2006/12/22/vampires/) is a good read. Simply asking questions does not make someone a help vampire. 
 
 **How can I help others solve their coding problems?** 
 
