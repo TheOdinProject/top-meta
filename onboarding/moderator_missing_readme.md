@@ -33,7 +33,7 @@ The following are some general guidelines which can help make moderation simpler
 As you begin moderating, you might begin to notice patterns of community members responding to moderation in similar ways. You might also notice that certain interactions end quicker, simpler, with less stress on your end as a moderator.
 
 1. Individuals ignoring moderation
-    - Once an individual has been zapped and notified of the rule they were breaking, don't feel like you have to go out of your way to communicate those unwilling to communicate themselves. 
+    - Once an individual has been warned and notified of the rule they were breaking, don't feel like you have to go out of your way to communicate those unwilling to communicate themselves. 
 1. Becoming defensive
     - Depending on the situation consider expressing your intent, and your role as a moderator as briefly and explicitly as possible. Don't hesitate to remind someone you're trying to make the community a safer, more welcoming place.
 1. Acting confused
