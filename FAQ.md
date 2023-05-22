@@ -55,7 +55,7 @@ In the past, Thinkful paid our hosting costs in exchange for an advertisement. T
 
 **Are you affiliated with "_ bootcamp"?** 
 
-Unless it is Thinkful, no. [Read here for more information](https://discord.com/channels/505093832157691914/505093832157691916/781170792095809547).
+We are not currently affiliated with any bootcamps. Our license prohibits the use of our curriculum when there are any fees charged. So if you hear about one that is using our material, please let us know through <@575252669443211264>.
 
 **Does TOP teach Python or any other language?**
 
