@@ -93,10 +93,6 @@ Very, but that doesn't mean you can't do it. Learning programming in general is 
 
 Nope, this is run by the community, for the community without pay of any sort. 
 
-**What is a "help vampire" or "vamp"?** 
-
-Help vampires are very common but also very detrimental to online communities. This [article on recognizing help vampire behavior](http://slash7.com/2006/12/22/vampires/) is a good read. Simply asking questions does not make someone a help vampire. 
-
 **How can I help others solve their coding problems?** 
 
 Read our [guide on helping others solve coding problems](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/join-the-odin-community#how-to-help-others-solve-coding-problems). 
