@@ -51,7 +51,7 @@ Of course, check out [our Github](https://github.com/TheOdinProject) and follow 
 
 **What is Thinkful and their relationship to TOP?**
 
-Thinkful pays for the domain and servers, it was part of the deal when Erik sold Viking Code School to Thinkful. They don't ask us for anything in return except a small ad on the site. They do not use our curriculum, nor do they contribute to ours. TOP is fully run by the Core and Maintainer teams, as well as other contributors on a volunteer basis.
+In the past, Thinkful paid our hosting costs in exchange for an advertisement. They did not use our curriculum, nor do they contribute to ours. TOP is fully run by the Core and Maintainer teams, as well as other contributors on a volunteer basis.
 
 **Are you affiliated with "_ bootcamp"?** 
 
