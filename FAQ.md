@@ -31,9 +31,9 @@ No, certificates do not have much value outside of very small niches in IT, usua
 
 **When should I use ModMail?**
 
-If you see anything in the server that you believe is against our community rules, we encourage you to send a DM to <@575252669443211264> and to not address the issue yourself. You can also send a DM to <@575252669443211264> if you're not sure if you're allowed to share something in our channels.
+If you see anything in the server that you believe is against our community rules, we encourage you to send a DM to <@575252669443211264> and to not address the issue yourself. You can also send a DM to <@575252669443211264> if you're not sure if you're allowed to share something in our channels. You can find more info about how to use ModMail in the [guide we posted here](https://discord.com/channels/505093832157691914/1059513837197459547/1082300847716835341).
 
-**When should I NOT use Modmail?** 
+**When should I NOT use ModMail?** 
 
 Please don't use <@575252669443211264> for personal TOP advice, programming help or casual chats with the team.
 
