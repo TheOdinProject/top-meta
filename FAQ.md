@@ -99,7 +99,7 @@ Read our [guide on helping others solve coding problems](https://www.theodinproj
 
 **How should I ask questions?**
 
-[Read this]([https://discord.com/channels/505093832157691914/505093832157691916/853784735292325898](https://www.theodinproject.com/how_to_ask)).
+[Read this](https://www.theodinproject.com/how_to_ask).
 
 **What books should I read/do you recommend?** 
 
