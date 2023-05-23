@@ -4,11 +4,11 @@
 
 [About](https://www.theodinproject.com/about)
 
-[Community Rules](https://www.theodinproject.com/community_rules)
+[Community Rules](https://www.theodinproject.com/guides/community/rules)
 
-[Community Expectations](https://www.theodinproject.com/community_expectations)
+[Community Expectations](https://www.theodinproject.com/guides/community/expectations)
 
-[How to Ask Technical Questions](https://www.theodinproject.com/how_to_ask)
+[How to Ask Technical Questions](https://www.theodinproject.com/guides/community/how_to_ask)
 
 **==== FEATURED QUESTION ====**
 
@@ -99,7 +99,7 @@ Read our [guide on helping others solve coding problems](https://www.theodinproj
 
 **How should I ask questions?**
 
-[Read this](https://www.theodinproject.com/how_to_ask).
+[Read this](https://www.theodinproject.com/guides/community/how_to_ask).
 
 **What books should I read/do you recommend?** 
 
