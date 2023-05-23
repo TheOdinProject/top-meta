@@ -4,11 +4,11 @@
 
 [About](https://www.theodinproject.com/about)
 
-[Community Rules](https://www.theodinproject.com/community_rules)
+[Community Rules](https://www.theodinproject.com/guides/community/rules)
 
-[Community Expectations](https://www.theodinproject.com/community_expectations)
+[Community Expectations](https://www.theodinproject.com/guides/community/expectations)
 
-[How to Ask Technical Questions](https://www.theodinproject.com/how_to_ask)
+[How to Ask Technical Questions](https://www.theodinproject.com/guides/community/how_to_ask)
 
 **==== FEATURED QUESTION ====**
 
@@ -31,9 +31,9 @@ No, certificates do not have much value outside of very small niches in IT, usua
 
 **When should I use ModMail?**
 
-If you see anything in the server that you believe is against our community rules, we encourage you to send a DM to <@575252669443211264> and to not address the issue yourself. You can also send a DM to <@575252669443211264> if you're not sure if you're allowed to share something in our channels.
+If you see anything in the server that you believe is against our community rules, we encourage you to send a DM to <@575252669443211264> and to not address the issue yourself. You can also send a DM to <@575252669443211264> if you're not sure if you're allowed to share something in our channels. You can find more info about how to use ModMail in the [guide we posted here](https://discord.com/channels/505093832157691914/1059513837197459547/1082300847716835341).
 
-**When should I NOT use Modmail?** 
+**When should I NOT use ModMail?** 
 
 Please don't use <@575252669443211264> for personal TOP advice, programming help or casual chats with the team.
 
@@ -51,11 +51,11 @@ Of course, check out [our Github](https://github.com/TheOdinProject) and follow 
 
 **What is Thinkful and their relationship to TOP?**
 
-Thinkful pays for the domain and servers, it was part of the deal when Erik sold Viking Code School to Thinkful. They don't ask us for anything in return except a small ad on the site. They do not use our curriculum, nor do they contribute to ours. TOP is fully run by the Core and Maintainer teams, as well as other contributors on a volunteer basis.
+In the past, Thinkful paid our hosting costs in exchange for an advertisement. They did not use our curriculum, nor do they contribute to ours. TOP is fully run by the Core and Maintainer teams, as well as other contributors on a volunteer basis.
 
 **Are you affiliated with "_ bootcamp"?** 
 
-Unless it is Thinkful, no. [Read here for more information](https://discord.com/channels/505093832157691914/505093832157691916/781170792095809547).
+We are not currently affiliated with any bootcamps. Our license prohibits the use of our curriculum when there are any fees charged. So if you hear about one that is using our material, please let us know through <@575252669443211264>.
 
 **Does TOP teach Python or any other language?**
 
@@ -93,17 +93,13 @@ Very, but that doesn't mean you can't do it. Learning programming in general is 
 
 Nope, this is run by the community, for the community without pay of any sort. 
 
-**What is a "help vampire" or "vamp"?** 
-
-Help vampires are very common but also very detrimental to online communities. This [article on recognizing help vampire behavior](http://slash7.com/2006/12/22/vampires/) is a good read. Simply asking questions does not make someone a help vampire. 
-
 **How can I help others solve their coding problems?** 
 
 Read our [guide on helping others solve coding problems](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/join-the-odin-community#how-to-help-others-solve-coding-problems). 
 
 **How should I ask questions?**
 
-[Read this]([https://discord.com/channels/505093832157691914/505093832157691916/853784735292325898](https://www.theodinproject.com/how_to_ask)).
+[Read this](https://www.theodinproject.com/guides/community/how_to_ask).
 
 **What books should I read/do you recommend?** 
 
