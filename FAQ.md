@@ -79,7 +79,7 @@ Generally no, however a degree can help you get past some non-understanding HR p
 
 **Should I do multiple courses at the same time?** 
 
-We strongly advice against this. For more context on our opinion, read this [message on doing multiple courses at the same time](https://discord.com/channels/505093832157691914/505093832157691916/778727680438698055). 
+We strongly advise against this. For more context on our opinion, read this [message on doing multiple courses at the same time](https://discord.com/channels/505093832157691914/505093832157691916/778727680438698055). 
 
 **Is there an Odin dark theme?** 
 
