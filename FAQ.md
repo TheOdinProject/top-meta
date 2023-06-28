@@ -33,7 +33,7 @@ No, certificates do not have much value outside of very small niches in IT, usua
 
 If you see anything in the server that you believe is against our community rules, we encourage you to send a DM to <@575252669443211264> and to not address the issue yourself. You can also send a DM to <@575252669443211264> if you're not sure if you're allowed to share something in our channels. You can find more info about how to use ModMail in the [guide we posted here](https://discord.com/channels/505093832157691914/1059513837197459547/1082300847716835341).
 
-**When should I NOT use ModMail?** 
+**When should I NOT use ModMail?**
 
 Please don't use <@575252669443211264> for personal TOP advice, programming help or casual chats with the team.
 
@@ -53,7 +53,7 @@ Of course, check out [our Github](https://github.com/TheOdinProject) and follow 
 
 In the past, Thinkful paid our hosting costs in exchange for an advertisement. They did not use our curriculum, nor do they contribute to ours. TOP is fully run by the Core and Maintainer teams, as well as other contributors on a volunteer basis.
 
-**Are you affiliated with "_ bootcamp"?** 
+**Are you affiliated with "_ bootcamp"?**
 
 We are not currently affiliated with any bootcamps. Our license prohibits the use of our curriculum when there are any fees charged. So if you hear about one that is using our material, please let us know through <@575252669443211264>.
 
@@ -65,11 +65,11 @@ Visit [our website](https://www.theodinproject.com) to see what is covered, and 
 
 It doesn't matter, though there's more information at the end of Foundations. Don't worry until you have completed Foundations. See above.
 
-**In what order should I take the courses of the curriculum?** 
+**In what order should I take the courses of the curriculum?**
 
 You should start at the beginning and not skip, even if you feel you are experienced. Part of what makes TOP work is building on previous knowledge in the curriculum. If you know the stuff, it will go quickly, if you do not, you'll be glad you did it. TOP expects you to have gone through the previous sections before each next section. This is a curriculum, not a collection of tutorials.
 
-**Should I take notes?** 
+**Should I take notes?**
 
 Mostly, no. Understanding > memorization. This [message on note-taking](https://discord.com/channels/505093832157691914/505093832157691916/768161823366578176) is a great read on the topic.
 
@@ -77,41 +77,41 @@ Mostly, no. Understanding > memorization. This [message on note-taking](https://
 
 Generally no, however a degree can help you get past some non-understanding HR people. Many people have become successful without them, see <#1013804065169346631>.
 
-**Should I do multiple courses at the same time?** 
+**Should I do multiple courses at the same time?**
 
-We strongly advise against this. For more context on our opinion, read this [message on doing multiple courses at the same time](https://discord.com/channels/505093832157691914/505093832157691916/778727680438698055). 
+We strongly advise against this. For more context on our opinion, read this [message on doing multiple courses at the same time](https://discord.com/channels/505093832157691914/505093832157691916/778727680438698055).
 
-**Is there an Odin dark theme?** 
+**Is there an Odin dark theme?**
 
-Yup! If you are not logged in, you will see a little moon and sun icon in the top nav bar. If you are logged in, you will see the choice when you click on the user icon in the top nav bar. Keep in mind it is in beta, so if you see something that needs to be addressed, you can let us know in the suggestions-bugs channel. 
+Yup! If you are not logged in, you will see a little moon and sun icon in the top nav bar. If you are logged in, you will see the choice when you click on the user icon in the top nav bar.
 
-**Is TOP hard?** 
+**Is TOP hard?**
 
 Very, but that doesn't mean you can't do it. Learning programming in general is tough, no matter where you go. In order to get through it, you'll need to develop [grit](https://www.ted.com/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance)
 
-**Does the TOP staff get paid?** 
+**Does the TOP staff get paid?**
 
-Nope, this is run by the community, for the community without pay of any sort. 
+Nope, this is run by the community, for the community without pay of any sort.
 
-**How can I help others solve their coding problems?** 
+**How can I help others solve their coding problems?**
 
-Read our [guide on helping others solve coding problems](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/join-the-odin-community#how-to-help-others-solve-coding-problems). 
+Read our [guide on helping others solve coding problems](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/join-the-odin-community#how-to-help-others-solve-coding-problems).
 
 **How should I ask questions?**
 
 [Read this](https://www.theodinproject.com/guides/community/how_to_ask).
 
-**What books should I read/do you recommend?** 
+**What books should I read/do you recommend?**
 
-Our curriculum will recommend books when the time is right. If you haven't come across recommendations, the time isn't right. Yet. (Though, we've heard Moby Dick is a good book.) 
+Our curriculum will recommend books when the time is right. If you haven't come across recommendations, the time isn't right. Yet. (Though, we've heard Moby Dick is a good book.)
 
 **How can I get the "professional" role?**
 
 The "professional" role is limited to those who are verified industry professionals such as software engineers, software developers, web developers, and other associated software development team roles. Please fill out this [form to apply for the professional role](https://dyno.gg/form/ad2fdb2f).
 
-**What is the "studying" voice channel?** 
+**What is the "studying" voice channel?**
 
-It's just a way to show off that you're studying! Think of it like going to a library and studying quietly. 
+It's just a way to show off that you're studying! Think of it like going to a library and studying quietly.
 
 **Can I translate your curriculum to another language?**
 
