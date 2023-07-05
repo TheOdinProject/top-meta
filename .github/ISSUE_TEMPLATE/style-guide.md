@@ -8,11 +8,11 @@ assignees: ''
 ---
 
 # Lesson Name
-This issue is part of the Style Guide Community Project, a way of offering members of The Odin Project community a chance to contribute to our curriculum. Users who wish to take part and contribute to any Style Guide issues should have thoroughly read the [layout style guide](https://github.com/TheOdinProject/curriculum/blob/main/LAYOUT_STYLE_GUIDE.md) and [The Odin Project contributing guide](https://github.com/TheOdinProject/theodinproject/blob/main/CONTRIBUTING.md).
-  
+This issue is part of the Style Guide Community Project, a way of offering members of The Odin Project community a chance to contribute to our curriculum. Users who wish to take part and contribute to any Style Guide issues should have thoroughly read the [layout style guide](https://github.com/TheOdinProject/curriculum/blob/main/LAYOUT_STYLE_GUIDE.md) and [The Odin Project contributing guide](https://github.com/TheOdinProject/.github/blob/main/CONTRIBUTING.md).
+
 ## Description of Issue
 This is a brief description of the issue.
-  
+
 ## Acceptance Criteria
 This is the definition of success. If the requirements here are not met, the work effort is not complete.
 - [ ] Any requirements noted in the issue description above are met.
