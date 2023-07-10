@@ -15,7 +15,7 @@ Removal of the role is subject to the discretion of the Core team members and ma
 
 ### Maintain, follow, and enforce rules
 
-A moderator is expected to adhere to and uphold the rules and expectations as detailed and maintained in the `#rules` channel in the Discord or [in the community rules page on the TOP website](https://www.theodinproject.com/community_rules) at all times.
+A moderator is expected to adhere to and uphold the rules and expectations as detailed and maintained in the `#rules` channel in the Discord or [in the community rules page on the TOP website](https://www.theodinproject.com/guides/community/rules) at all times.
 - The spirit of the rules is much more important to us than their exact wording.
 - Be as lenient and forgiving as possible while making sure that repeat offenders don't overstay their welcome.
 Keep in mind that most people break a rule simply because they are not aware of it being a rule. Most people are more than happy to correct their behaviour when told about our rules, without the need of a formal warning. This will be context dependent and some rule breaks are worse than others. The rules and guidelines should help with deciding on how best to proceed.
