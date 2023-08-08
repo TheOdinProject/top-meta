@@ -32,35 +32,49 @@ When a rule has been broken, the moderators will assume everyone had positive in
 - Correct or confront another user about their misconduct
 - Act unprofessionally or treat anyone disrespectfully
 
+[rule-name]: # (safe-topics)
+
 ### Discuss topics that are safe and welcoming for everyone
 &#9989; Discuss topics that are relevant to our curriculum or have an off-topic channel.
 
 &#10060; Do not discuss any unrelated topics that can be divisive or harmful, such as illegal activities, politics, religion, relationships, mental health, medical conditions, medicine, homeopathic or other home remedies, etc.
+
+[rule-name]: # (curriculum-content)
 
 ### Ask questions about content or projects in our curriculum
 &#9989; The purpose of this server is to support people when they run into issues doing our curriculum. This allows our volunteers to know the exact scope of your problem and correct any poor advice. In addition, this limited scope helps us identify areas in our curriculum that we need to improve.
 
 &#10060; Do not ask for advice/help on homework or personal projects, even if the topic is covered by our curriculum. Instead, research other servers/communities that offer general programming help.
 
+[rule-name]: # (curriculum-tools)
+
 ### Ask questions about the tools recommended in our curriculum
 &#9989; This community is run by the same volunteers who maintain the curriculum and they created this server as a way to support people when they run into issues with our recommendations.
 
 &#10060; Do not suggest tools that are outside of the curriculum's recommendations, such as using Windows, WSL, etc, because our committed volunteers are not equipped to support these additional tools. You are welcome to use them, but do not suggest them to others.
+
+[rule-name]: # (public-questions)
 
 ### Ask questions in public channels for anyone to answer
 &#9989; Ask questions in public channels because everyone in this community shares the responsibility to answer questions and others can learn from reading the conversation. It is unfair to expect specific people to answer your question.
 
 &#10060; Do not send direct messages, friend requests, or ping another user without prior consent.
 
+[rule-name]: # (one-channel)
+
 ### Ask your question in only one channel
 &#9989; After asking your question in one channel, allow at least 30 minutes for a reply. While you are waiting, make sure that you posted in the most relevant channel, provided a detailed question, and continue trouble-shooting. It is recommended to edit your post with the results of things you have tried. If your post gets buried, you may repost your question, otherwise, you may direct people to your question in a more active channel.
 
 &#10060; Do not post the same question in multiple channels.
 
+[rule-name]: # (public-help)
+
 ### Help others by guiding them to the solution in a public 1:1 conversation
 &#9989; Our community values guiding a person to the solution because it empowers them with more practical skills to apply the next time they run into a problem.
 
 &#10060; Do not provide the answer or intrude into a public 1:1 conversation with a different answer. If the guidance is incorrect, you may politely state that there might be some confusion and ask permission to help clarify the issue.
+
+[rule-name]: # (detailed-question)
 
 ### Make it easy for others to help you by asking a detailed question
 &#9989; Ask detailed questions by following our [How to Ask Technical Questions](https://www.theodinproject.com/guides/community/how_to_ask) guide. Since your post will be fairly long, use shift + enter to add new lines between paragraphs. A detailed question should contain the following elements:
@@ -79,6 +93,8 @@ When a rule has been broken, the moderators will assume everyone had positive in
 
 **We take this rule very seriously because repeatedly asking low effort questions causes a drain on our community of volunteers.**
 
+[rule-name]: # (relevant-resources)
+
 ### Share resources that are relevant to our curriculum
 &#9989; When sharing resources that are relevant to our curriculum, add surrounding context, such as where you are in the curriculum, what exactly you found helpful, a code example, etc. Remember that our curriculum is open source, so you are encouraged to make a pull request to add it to the curriculum.
 
@@ -91,10 +107,14 @@ When a rule has been broken, the moderators will assume everyone had positive in
 - Fundraising or donation drives
 - Job posts or recruitment
 
+[rule-name]: # (modmail)
+
 ### Report misconduct to ModMail
 &#9989; Use Modmail to report misconduct, private harassment by a community member, or if anyone makes you or others feel unsafe, uncomfortable, or unwelcome in our community.
 
 &#10060; Do not correct or confront another user about their misconduct. We know you mean well, but this will often make the situation worse.
+
+[rule-name]: # (respect)
 
 ### Act professionally and treat everyone with respect
 &#9989; The culture of this community is very similar to the professional workplace messaging apps of our volunteer team. Learning how to respectfully interact with others from around the world will prepare you to interact with your future teammates.
