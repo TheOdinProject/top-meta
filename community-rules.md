@@ -28,7 +28,7 @@ When a rule has been broken, the moderators will assume everyone had positive in
 - Ask your question in multiple channels
 - Intrude into a public 1:1 conversation by providing a different answer
 - Avoid asking low effort questions that are missing relevant details
-- Share resources that are not relevant to our curriculum
+- Share resources that are not relevant to our curriculum. This includes memes
 - Correct or confront another user about their misconduct
 - Act unprofessionally or treat anyone disrespectfully
 
