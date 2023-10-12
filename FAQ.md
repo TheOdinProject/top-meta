@@ -23,7 +23,7 @@ TOP is the abbreviation for The Odin Project
 
 **Can TOP help get me a job?**
 
-We do not offer job services. However, if you have completed TOP, you have the skills and qualifications needed to find a job. See <#669547324707569665> and the [getting hired section of the curriculum](https://www.theodinproject.com/paths/full-stack-javascript/courses/getting-hired) for advice on the job search. <#1013804065169346631> are also a good source of motivation.
+We do not offer job services. However, if you have completed TOP, you have the skills and qualifications needed to find a job. See <#669547324707569665> and the [getting hired section of the curriculum](https://www.theodinproject.com/paths/full-stack-javascript/courses/getting-hired) for advice on the job search. <#1089990025162260570> are also a good source of motivation.
 
 **Does TOP give certificates?**
 
@@ -75,7 +75,7 @@ Mostly, no. Understanding > memorization. This [message on note-taking](https://
 
 **Do I need a degree to get a job?**
 
-Generally no, however a degree can help you get past some non-understanding HR people. Many people have become successful without them, see <#1013804065169346631>.
+Generally no, however a degree can help you get past some non-understanding HR people. Many people have become successful without them, see <#1089990025162260570>.
 
 **Should I do multiple courses at the same time?**
 
