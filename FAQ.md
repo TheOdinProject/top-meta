@@ -1,4 +1,4 @@
-###Start here:
+### Start here:
 
 [FAQ](https://www.theodinproject.com/faq)
 
