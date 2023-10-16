@@ -28,7 +28,6 @@ When a rule has been broken, the moderators will assume everyone had positive in
 - Ask your question in multiple channels
 - Intrude into a public 1:1 conversation by providing a different answer
 - Avoid asking low effort questions that are missing relevant details
-- Share resources that are not relevant to our curriculum. This includes memes
 - Correct or confront another user about their misconduct
 - Act unprofessionally or treat anyone disrespectfully
 
@@ -106,6 +105,7 @@ When a rule has been broken, the moderators will assume everyone had positive in
 - Articles or blog posts on unrelated topics/languages
 - Fundraising or donation drives
 - Job posts or recruitment
+- Memes, even if they are programming-related. It is acceptable to reply in a conversation with a relevant gif.
 
 [rule-name]: # (modmail)
 
