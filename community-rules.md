@@ -51,7 +51,7 @@ When a rule has been broken, the moderators will assume everyone had positive in
 ### Ask questions about the tools recommended in our curriculum
 &#9989; This community is run by the same volunteers who maintain the curriculum and they created this server as a way to support people when they run into issues with our recommendations.
 
-&#10060; Do not suggest tools that are outside of the curriculum's recommendations, such as using Windows, WSL, etc, because our committed volunteers are not equipped to support these additional tools. You are welcome to use them, but do not suggest them to others.
+&#10060; Do not suggest tools that are outside of the curriculum's recommendations, such as using Windows, etc, because our committed volunteers are not equipped to support these additional tools. You are welcome to use them, but do not suggest them to others.
 
 [rule-name]: # (public-questions)
 
