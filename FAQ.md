@@ -43,7 +43,7 @@ Almost always no. Do not assume you have permission. We may entertain things tha
 
 ### How long does TOP take?
 
-There is no data on this information, between 3 months and 3 years seems to be the range. Read this [great message about the time it may or may not take](https://discord.com/channels/505093832157691914/505093832157691916/765633002393829389) for more info.
+There is no data on this information, nor would how long it takes other people be useful information, since your situation will not be the same as other people's. As long as you are sensible and disciplined, it will take however long it is supposed to take for you. Read this [great message about the time it may or may not take](https://discord.com/channels/505093832157691914/505093832157691916/765633002393829389) for more info.
 
 ### Can I contribute?
 
