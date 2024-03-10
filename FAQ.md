@@ -10,12 +10,13 @@
 
 [How to Ask Technical Questions](https://www.theodinproject.com/guides/community/how_to_ask)
 
-### ==== FEATURED QUESTION ====
+### ==== FEATURED QUESTION: Why can't I use Windows? ====
 
-[Why can't I use Windows?](https://discord.com/channels/505093832157691914/690588860085960734/828714982253789215)
+There is a whole [list of reasons](https://discord.com/channels/505093832157691914/690588860085960734/828714982253789215) for why we don't recommend using Windows.
+
+You can however use Windows Subsystem for Linux (WSL2), which lets you run a full-fledged Linux environment from within an existing Windows installation.
 
 ### =========================
-
 
 ### What does "TOP" mean?
 
