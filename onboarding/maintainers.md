@@ -2,7 +2,7 @@
 
 ## Purpose of Maintainer Role
 
-Maintainers are representatives of The Odin Project community who assist with moderating the official Discord server and the management of processes on the Github account.
+Maintainers are representatives of The Odin Project community who assist with the management of processes on the Github account.
 
 ## Settings 
 
