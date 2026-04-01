@@ -70,6 +70,12 @@ Being that contributions will vary in substance and frequency, the Core team wil
         - If the contributor has made the requested changes without requesting another review, you should request it for them on GitHub.
     - If a PR was made by another maintainer only approve it, don't merge it. On the team we merge our own PRs.
 
+### Participate in the Triage Rotation
+
+  - Related to the above; each maintainer must be part of the triage rotation for moving issues/PRs out of "needs triage" by closing/approving for work/requesting discussion from others on issues and by reviewing or requesting someone to review for PRs.
+  - Each shift on the rotation lasts one week
+  - Swapping your shift with other maintainers is permitted so long as another maintainer is willing to swap with you
+  
 ### Attend Meetings
 
 - Subscribe to the group Google Calendar (link pinned in the maintainer-discussions channel of the discord)
