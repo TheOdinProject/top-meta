@@ -14,7 +14,7 @@ Maintainers are representatives of The Odin Project community who assist with th
 
 Maintainers, and those wishing to be considered for the Maintainer role, are expected to have a record of regular and positive contributions to The Odin Project community. Maintainers are expected to make contributions to The Odin Project curriculum and provide support for the Discord server.
 
-Being that contributions will vary in substance and frequency, the Core team will determine if the member is meeting the expectations for the Maintainer role. If the expectations are not being met, the member will not be considered for the Maintainer role. If member is currently a Maintainer, they will be moved to Maintainer-Inactive role with the option to return to Maintainer status upon making regular contributions.
+Being that contributions will vary in substance and frequency, the Core team will determine if the member is meeting the expectations for the Maintainer role. If the expectations are not being met, the member will not be considered for the Maintainer role. If member is currently a Maintainer, they will be moved to Maintainer-Inactive role with the option to return to Maintainer status upon rejoining the triage rotation.
 
 ## Github Responsibilities and Guidelines
 
