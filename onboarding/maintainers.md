@@ -37,7 +37,7 @@ Being that contributions will vary in substance and frequency, the Core team wil
 - **Assign issues to those claiming it** (Check the right side of the page on an open issue)
   - People should comment on the issue they are working on the issue
 - **Moving issues to the proper section on the project board** (Check the right side of the page on an open issue)
-  - Curriculum issues should be attached to the 'curriculum' project board
+  - Curriculum issues should be attached to the "Curriculum Workflow" project board (usually done automatically)
   - Most things will be "backlog" unless it breaks significant parts of the course
   - When assigned to somebody, issue should be put in "In progress"
     - Don't be afraid to check up on people working on issues
