@@ -32,8 +32,6 @@ Being that contributions will vary in substance and frequency, the Core team wil
   - Adding a checklist for definition of "success" for whoever takes the issue
   - Suggestions on possible solutions
 - **Ask for contributions in the #contributions-opportunities channel**
-  - Do not go overboard, people don't like getting pinged a lot
-  - Consider batching requests in one ping
 - **Assign issues to those claiming it** (Check the right side of the page on an open issue)
   - People should comment on the issue they are working on the issue
 - **Moving issues to the proper section on the project board** (Check the right side of the page on an open issue)
