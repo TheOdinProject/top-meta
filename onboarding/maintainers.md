@@ -77,7 +77,7 @@ Being that contributions will vary in substance and frequency, the Core team wil
 
 ### Attend Meetings
 
-- Meetings are generally held twice a month
+- Meetings are generally held every other Saturday (see the "Team Issue Traige" event on Discord for exact dates and times).
 - Attendance is not _required_ but is strongly encouraged whenever you're able to attend.
 
 ## Burnout
