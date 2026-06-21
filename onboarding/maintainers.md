@@ -77,7 +77,6 @@ Being that contributions will vary in substance and frequency, the Core team wil
 
 ### Attend Meetings
 
-- Subscribe to the group Google Calendar (link pinned in the maintainer-discussions channel of the discord)
 - Meetings are generally held twice a month
 - Attendance is not _required_ but is strongly encouraged whenever you're able to attend.
 
