@@ -20,7 +20,7 @@ Being that contributions will vary in substance and frequency, the Core team wil
 
 ### Maintain Issues
 
-- A maintainer should spend time maintaining the Github
+- A maintainer should spend time maintaining the repos on GitHub
 - As a maintainer, you should use your discretion on which issues _you_ should take yourself. Part of your goal, is to increase contributions from the entire community
 - **Delete/Close** irrelevant and unhelpful issues and comments
   - **Explain reasoning for closing issue**
