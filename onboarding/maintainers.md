@@ -31,7 +31,7 @@ Being that contributions will vary in substance and frequency, the Core team wil
 - **Modify issue contents with more information that could be relevant**
   - Adding a checklist for definition of "success" for whoever takes the issue
   - Suggestions on possible solutions
-- **Ask for contributions in the #contributions-opportunities channel**
+- While not required, consider posting issues that are open for assignment request in the #contributions-opportunities channel, especially if they're straightforward
 - **Assign issues to those claiming it** (Check the right side of the page on an open issue)
   - People should comment on the issue they are working on the issue
 - **Moving issues to the proper section on the project board** (Check the right side of the page on an open issue)
