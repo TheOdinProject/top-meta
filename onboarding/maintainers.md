@@ -60,7 +60,7 @@ Being that contributions will vary in substance and frequency, the Core team wil
     - <https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-request-reviews>
   - New lessons will have to have the "seeds" file updated to accommodate and show on the site
 - **Merge PRs**
-  - All maintainers share the responsibility of reviewing and merging PRs, even if another maintainer requested changes or created the issue (with the exception of a specialized epic project that one maintainer is overseeing, like the new HTML/CSS lessons).
+  - All maintainers share the responsibility of reviewing and merging PRs, even if another maintainer requested changes or created the issue (with the exception of a specialized epic project that one maintainer is overseeing).
   - Since you are a maintainer, we trust your judgement. With git, everything can be reverted, so don't be afraid to merge things from non-maintainers/core.
     - Ask Kevin about his screw-ups (and Marvin)
   - If a PR looks to be good, feel free to merge after review.
