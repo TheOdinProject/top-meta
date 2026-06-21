@@ -6,7 +6,7 @@ Maintainers are representatives of The Odin Project community who assist with th
 
 ## Settings
 
-- Please ensure you have 2FA authentication enabled so if a situation arises in which you need to moderate you will be able to do so. You can find the [discord guide for 2FA](https://support.discord.com/hc/en-us/articles/219576828-Setting-up-Two-Factor-Authentication).
+- Please ensure you have 2FA authentication enabled so if a situation arises in which you need to moderate you will be able to do so. You can use the [discord guide for 2FA](https://support.discord.com/hc/en-us/articles/219576828-Setting-up-Two-Factor-Authentication).
 
 - You should ensure you have 2FA authentication enabled for Github to keep your account secure. _Please ensure you follow the [GitHub guide for 2FA](https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa/configuring-two-factor-authentication)_ to ensure you set it up properly.
 
