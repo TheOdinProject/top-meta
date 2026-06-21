@@ -27,7 +27,7 @@ Being that contributions will vary in substance and frequency, the Core team wil
   - Before deletion, ask for more info if issue could be viable
   - People asking for help on projects, should be directed to the forum or chat before deletion
 - **Add tags to issues as applicable** (Check the right side of the page on an open issue)
-  - e.g. "First Time Only" (for super easy issues, to help gain more contributors)
+  - e.g. "Help wanted" or "Good first issue" (for super easy issues, to help gain more contributors)
 - **Modify issue contents with more information that could be relevant**
   - Adding a checklist for definition of "success" for whoever takes the issue
   - Suggestions on possible solutions
