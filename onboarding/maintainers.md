@@ -39,7 +39,7 @@ Being that contributions will vary in substance and frequency, the Core team wil
 - **Moving issues to the proper section on the project board** (Check the right side of the page on an open issue)
   - Curriculum issues should be attached to the 'curriculum' project board
   - Most things will be "backlog" unless it breaks significant parts of the course
-  - When assigned to somebody, issue should be put in "in-progress"
+  - When assigned to somebody, issue should be put in "In progress"
     - Don't be afraid to check up on people working on issues
   - Issues with attached PRs will be closed automatically
 - **Keep an eye on the project board**
