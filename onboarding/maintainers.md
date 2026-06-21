@@ -82,7 +82,7 @@ Being that contributions will vary in substance and frequency, the Core team wil
 
 ## Burnout
 
-Try to keep the following in mind.
+Try to keep the following in mind:
 
 1. Be mindful of your feelings. If you feel like being a maintainer is becoming a chore, express this to your team and discuss what you can do to feel better - whether that's taking a small break, taking on less work, or approaching being a maintainer differently.
 1. Don't watch over the GitHub repos like a hawk. Find a balance in your life, in and outside of The Odin Project responsibilities. Set rules for yourself to stay healthy, happy, and stick to those rules.
