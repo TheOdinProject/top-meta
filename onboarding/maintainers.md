@@ -74,8 +74,22 @@ Being that contributions will vary in substance and frequency, the Core team wil
 
 ### Attend Meetings
 
-- Meetings are generally held every other Saturday (see the "Team Issue Traige" event on Discord for exact dates and times).
+- Meetings are generally held every other Saturday (see the "Team Issue Triage" event on Discord for exact dates and times).
 - Attendance is not _required_ but is strongly encouraged whenever you're able to attend.
+
+## Discord
+
+While a maintainer still represents the team on Discord, the role does not come with expectations to carry out moderator duties. However, if you wish, you may request to join the moderator team (which of course would be subject to team approval and separate onboarding). Otherwise, do not feel like you have to step in and resolve problematic situations; it is absolutely okay to step away and use modmail as normal, and let moderators decide how to handle things.
+
+Maintainers still have permissions to delete messages and kick/ban users in an emergency via Odin bot's "Delete message" and "Ban spammer" context menu commands (accessible by right-clicking a message and going to "Apps"). **These commands should only be used if absolutely necessary**, for situations that do not need any team deliberation such as things that slip through auto-mod actions.
+
+### Delete message
+
+Odin bot will delete the message then DM the user that they've broken a server rule and to use modmail if they need to clarify them. It may also be handy to first grab the user and message IDs to send via modmail in case moderators would want to take further action. An example situation where this could be used sensibly is if someone posts a one-off NSFW image in a channel.
+
+### Ban spammer
+
+Odin bot will permaban the user, logging this action to moderator channels. It will also ask you if you'd like the user's messages from the last 7 days to be deleted. Use this for any scam spam that happens to slip through the auto-mod net; no team deliberation is needed here and getting rid of them ASAP is clearly justified. Users are notified how to appeal the ban in case they're able to recover and secure their account.
 
 ## Burnout
 
