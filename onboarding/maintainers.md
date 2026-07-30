@@ -79,7 +79,7 @@ Being that contributions will vary in substance and frequency, the Core team wil
 
 ## Discord
 
-While a maintianer still represents the team on Discord, the role does not come with expectations to carry out moderator duties. If you wish, you may request to join the moderator team (which of course would be subject to team approval and separate onboarding). Do not feel like you have to step in and resolve problematic situations; it is absolutely okay to step away and use modmail as normal, and let moderators decide how to handle things.
+While a maintainer still represents the team on Discord, the role does not come with expectations to carry out moderator duties. However, if you wish, you may request to join the moderator team (which of course would be subject to team approval and separate onboarding). Otherwise, do not feel like you have to step in and resolve problematic situations; it is absolutely okay to step away and use modmail as normal, and let moderators decide how to handle things.
 
 Maintainers still have permissions to delete messages and kick/ban users in an emergency via Odin bot's "Delete message" and "Ban spammer" context menu commands (accessible by right-clicking a message and going to "Apps"). **These commands should only be used if absolutely necessary**, for situations that do not need any team deliberation such as things that slip through auto-mod actions.
 
