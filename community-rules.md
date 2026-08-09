@@ -70,7 +70,7 @@ When a rule has been broken, the moderators will assume everyone had positive in
 [rule-name]: # (public-help)
 
 ### Help others by guiding them to the solution in a public 1:1 conversation
-&#9989; Our community values guiding a person to the solution because it empowers them with more practical skills to apply the next time they run into a problem.
+&#9989; Our community values guiding a person to the solution because it empowers them with more practical skills to apply the next time they run into a problem. For more information, see our [How to Help Others Solve Coding Problems](https://www.theodinproject.com/guides/community/how_to_help) guide.
 
 &#10060; Do not provide the answer or intrude into a public 1:1 conversation with a different answer. If the guidance is incorrect, you may politely state that there might be some confusion and ask permission to help clarify the issue.
 
