@@ -1,4 +1,5 @@
 # Chat Moderators
+
 _This document will serve as the entry point to chat moderation in The Odin Project's (TOP) Discord community for any new Core, Maintainers, and Moderators._
 
 ## Purpose of Moderator Role
@@ -22,6 +23,10 @@ Keep in mind that most people break a rule simply because they are not aware of 
 - Make use of the tools at your disposal: bots, private threads, role assignment and other Discord tools. Concrete workflows are documented internally.
 - Follow the internal guidelines & culture on enforcing the rules. Help writing those down and maintaining them.
 - Communicate with your fellow moderators when it comes to enforcing the rules and maintaining them. We're a team and the rules are how we communicate our expectations towards the community.
+
+### Odin Bot
+
+Moderators have maintainer permissions for the [Odin Bot repo](https://github.com/TheOdinProject/odin-bot-v2). This means within that repo, moderators are allowed to approve/reject issues and PRs, including merging, if they wish. This is not a responsibility so much as a permission, so **you do not have to help with maintaining the repo if you do not wish to**. For further information, see [GitHub responsibilities for maintainers](https://github.com/TheOdinProject/top-meta/blob/main/onboarding/maintainers.md#github-responsibilities-and-guidelines) (drawing extra attention to the final point on only approving but not merging PRs authored by other repo maintainers - let the authoring maintainer merge when they're ready).
 
 ### Be part of the team
 
