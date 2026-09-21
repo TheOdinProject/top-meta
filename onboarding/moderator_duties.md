@@ -26,7 +26,7 @@ Keep in mind that most people break a rule simply because they are not aware of 
 
 ### Odin Bot
 
-Moderators have maintainer permissions for the [Odin Bot repo](https://github.com/TheOdinProject/odin-bot-v2). This means within that repo, moderators are allowed to approve/reject issues and PRs, including merging, if they wish. This is not a responsibility so much as a permission, so **you do not have to help with maintaining the repo if you do not wish to**. For further information, see [GitHub responsibilities for maintainers](https://github.com/TheOdinProject/top-meta/blob/main/onboarding/maintainers.md#github-responsibilities-and-guidelines). If you have questions about this, don't be afraid to ask in the staff channel.
+Moderators have maintainer permissions for the [Odin Bot repo](https://github.com/TheOdinProject/odin-bot-v2). This means within that repo, moderators are allowed to approve/reject issues and PRs, including merging, if they wish. This is not a responsibility so much as a permission, so **you do not have to help with maintaining the repo if you do not wish to**. For further information, see [GitHub responsibilities for maintainers](https://github.com/TheOdinProject/staff/blob/main/maintainers/onboarding.md#github-responsibilities-and-guidelines). If you have questions about this, don't be afraid to ask in the staff channel.
 
 ### Be part of the team
 
