@@ -1,6 +1,6 @@
 ## Community Rules
 
-Our Discord server is a very active community of people from all over the world and is moderated by a team of volunteers. Our moderation team has 3 different [roles](https://github.com/TheOdinProject/top-meta/blob/main/about/discord-roles.md): Core, Maintainer, and Moderator.
+Our Discord server is a very active community of people from all over the world and is moderated by a team of volunteers. Our team has 3 different [roles](https://github.com/TheOdinProject/top-meta/blob/main/discord-roles.md): Core, Maintainer, and Moderator.
 
 Our moderation team is committed to providing a friendly, safe and welcoming environment for all, regardless of level of experience, gender identity and expression, sexual orientation, disability, neurodivergence, personal appearance, body, race, ethnicity, age, religion, nationality, or other similar characteristic.
 
