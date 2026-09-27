@@ -134,3 +134,12 @@ When a rule has been broken, the moderators will assume everyone had positive in
 - Trolling
 - Publicly arguing about receiving moderation after being asked to discuss privately through ModMail
 - Any other behavior deemed unacceptable and deserving of a ban by the moderation team, such as displaying a pattern of breaking our rules
+
+[rule-name]: # (additional-expectations)
+
+### Additional Community Expectations
+Please read our [additional community expectations](https://www.theodinproject.com/guides/community/expectations) because it contains additional tips that improve the quality of our community.
+
+Our Core, Maintainer and Moderation team are also subject to the rules. If you see any of our team members have inappropriate behavior, please report it to ModMail with a link to the post and brief explanation of the rule that has been broken. Please do not argue publicly, instead communicate privately through ModMail.
+
+Please note that the entire TOP team has visibility on ModMail. If it makes you more comfortable, you may DM one member of the team with your concerns, or email the core team at theodinprojectcontact@gmail.com.
