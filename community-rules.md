@@ -1,6 +1,6 @@
 ## Community Rules
 
-Our Discord server is a very active community of people from all over the world and is moderated by a team of volunteers. Our team has 3 different [roles](https://github.com/TheOdinProject/top-meta/blob/main/discord-roles.md): Core, Maintainer, and Moderator.
+Our Discord server is a very active community of people from all over the world and is moderated by [a team of volunteers](https://www.theodinproject.com/team#moderators).
 
 Our moderation team is committed to providing a friendly, safe and welcoming environment for all, regardless of level of experience, gender identity and expression, sexual orientation, disability, neurodivergence, personal appearance, body, race, ethnicity, age, religion, nationality, or other similar characteristic.
 
@@ -11,7 +11,7 @@ When a rule has been broken, the moderators will assume everyone had positive in
 ### &#9989; Do
 - Discuss topics that are safe and welcoming for everyone
 - Ask questions about content or projects in our curriculum
-- Ask questions about the tool recommended in our curriculum
+- Ask questions about the tools recommended in our curriculum
 - Ask questions in public channels for anyone to answer
 - Ask your question in only one channel
 - Help others by guiding them to the solution in a public 1:1 conversation
@@ -51,7 +51,7 @@ When a rule has been broken, the moderators will assume everyone had positive in
 ### Ask questions about the tools recommended in our curriculum
 &#9989; This community is run by the same volunteers who maintain the curriculum and they created this server as a way to support people when they run into issues with our recommendations.
 
-&#10060; Do not suggest tools that are outside of the curriculum's recommendations, such as using Windows, etc, because our committed volunteers are not equipped to support these additional tools. You are welcome to use them, but do not suggest them to others.
+&#10060; Do not suggest tools that are outside of the curriculum's recommendations, such as using different operating systems, web browsers, code editors, etc., because our committed volunteers are not equipped to support these additional tools. You are welcome to use them, but do not suggest them to others.
 
 [rule-name]: # (public-questions)
 
@@ -88,7 +88,7 @@ When a rule has been broken, the moderators will assume everyone had positive in
 &#10060; Avoid asking low effort questions because it puts too much responsibility on others to properly guide you to the answer. For example:
 
 - Not providing enough details or context
-- Asking questions that can be easily googled or not doing your own research first
+- Asking questions that can be easily Googled or not doing your own research first
 - Posting multiple short messages in rapid succession because they are often incomplete sentences that make it hard for others understand the full situation.
 
 **We take this rule very seriously because repeatedly asking low effort questions causes a drain on our community of volunteers.**
@@ -134,3 +134,12 @@ When a rule has been broken, the moderators will assume everyone had positive in
 - Trolling
 - Publicly arguing about receiving moderation after being asked to discuss privately through ModMail
 - Any other behavior deemed unacceptable and deserving of a ban by the moderation team, such as displaying a pattern of breaking our rules
+
+[rule-name]: # (additional-expectations)
+
+### Additional Community Expectations
+Please read our [additional community expectations](https://www.theodinproject.com/guides/community/expectations) because it contains additional tips that improve the quality of our community.
+
+Our Core, Maintainer and Moderator teams are also subject to the rules. If you see any of our team members have inappropriate behavior, please report it to ModMail with a link to the post and brief explanation of the rule that has been broken. Please do not argue publicly, instead communicate privately through ModMail.
+
+Please note that the entire TOP team has visibility on ModMail. If it makes you more comfortable, you may DM one member of the team with your concerns, or email the core team at theodinprojectcontact@gmail.com.
