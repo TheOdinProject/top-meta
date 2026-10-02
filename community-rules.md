@@ -1,145 +1,158 @@
 ## Community Rules
 
-Our Discord server is a very active community of people from all over the world and is moderated by [a team of volunteers](https://www.theodinproject.com/team#moderators).
+Our Discord server is a worldwide community, offering a focused, safe, and welcoming learning environment for [The Odin Project](https://www.theodinproject.com/). Our community rules, established to maintain that environment, are enforced by a team of [volunteers](https://www.theodinproject.com/team#moderators). The rules are as follows:
 
-Our moderation team is committed to providing a friendly, safe and welcoming environment for all, regardless of level of experience, gender identity and expression, sexual orientation, disability, neurodivergence, personal appearance, body, race, ethnicity, age, religion, nationality, or other similar characteristic.
+1. Focus on The Odin Project
+2. Keep conversations public
+3. Ask once and ask well
+4. Help by guiding
+5. Share only relevant, safe resources
+6. Act professionally and respectfully
 
-We expect everyone to handle themselves in a respectful manner and follow the spirit of our community rules.
+Below, you’ll see the specific actions that are encouraged or prohibited by each rule, alongside insight into their reasons for existence.
 
-When a rule has been broken, the moderators will assume everyone had positive intentions and will try to de-escalate the situation by having a conversation to clarify the expectations of our rules. If you are contacted by our moderation team, please do not take it personally or become argumentative. We realize that we have higher standards than the average Discord server to ensure the safety and wellbeing of our entire community.
-
-### &#9989; Do
-- Discuss topics that are safe and welcoming for everyone
-- Ask questions about content or projects in our curriculum
-- Ask questions about the tools recommended in our curriculum
-- Ask questions in public channels for anyone to answer
-- Ask your question in only one channel
-- Help others by guiding them to the solution in a public 1:1 conversation
-- Make it easy for others to help you by asking a detailed question
-- Share resources that are relevant to our curriculum
-- Report misconduct to ModMail
-- Act professionally and treat everyone with respect
-
-### &#10060; Don't
-- Discuss topics that can be harmful or divisive
-- Ask for help on personal projects or homework
-- Suggest tools that are not recommended in our curriculum
-- Send direct messages, friend requests, or ping another user without prior consent
-- Ask your question in multiple channels
-- Intrude into a public 1:1 conversation by providing a different answer
-- Ask low effort questions that are missing relevant details
-- Share resources that are not relevant to our curriculum
-- Correct or confront another user about their misconduct
-- Act unprofessionally or treat anyone disrespectfully
-
-[rule-name]: # (safe-topics)
-
-### Discuss topics that are safe and welcoming for everyone
-&#9989; Discuss topics that are relevant to our curriculum or have an off-topic channel.
-
-&#10060; Do not discuss any unrelated topics that can be divisive or harmful, such as illegal activities, politics, religion, relationships, mental health, medical conditions, medicine, homeopathic or other home remedies, etc.
 
 [rule-name]: # (curriculum-content)
 
-### Ask questions about content or projects in our curriculum
-&#9989; The purpose of this server is to support people when they run into issues doing our curriculum. This allows our volunteers to know the exact scope of your problem and correct any poor advice. In addition, this limited scope helps us identify areas in our curriculum that we need to improve.
+### 1. Focus on The Odin Project
 
-&#10060; Do not ask for advice/help on homework or personal projects, even if the topic is covered by our curriculum. Instead, research other servers/communities that offer general programming help.
+&#9989; Ask about the lessons, projects and tools in our curriculum.
 
-[rule-name]: # (curriculum-tools)
+&#10060; Don’t ask for help with homework or personal projects (even if our curriculum covers the topic). Instead: Look for a general programming community.
 
-### Ask questions about the tools recommended in our curriculum
-&#9989; This community is run by the same volunteers who maintain the curriculum and they created this server as a way to support people when they run into issues with our recommendations.
+&#10060; Don’t suggest tools outside of the curriculum, such as:
 
-&#10060; Do not suggest tools that are outside of the curriculum's recommendations, such as using different operating systems, web browsers, code editors, etc., because our committed volunteers are not equipped to support these additional tools. You are welcome to use them, but do not suggest them to others.
+- Operating systems (OS)
+- Web browsers
+- Code editors
+
+You’re welcome to use them yourself, but don’t suggest them to others.
+
+This server is run by the same volunteers who maintain the curriculum; staying within its scope allows our volunteers to understand exactly what you’re stuck on, correct poor advice, and identify lessons which warrant improvement.
+
 
 [rule-name]: # (public-questions)
 
-### Ask questions in public channels for anyone to answer
-&#9989; Ask questions in public channels because everyone in this community shares the responsibility to answer questions and others can learn from reading the conversation. It is unfair to expect specific people to answer your question.
+### 2. Keep conversations public
 
-&#10060; Do not send direct messages, friend requests, or ping another user without prior consent.
+&#9989; Ask questions in public channels within the server, where anyone can answer
 
-[rule-name]: # (one-channel)
+&#10060; Don’t send unsolicited friend requests, direct messages, or pings. Instead: Try asking them for permission first.
 
-### Ask your question in only one channel
-&#9989; After asking your question in one channel, allow at least 30 minutes for a reply. While you are waiting, make sure that you posted in the most relevant channel, provided a detailed question, and continue trouble-shooting. It is recommended to edit your post with the results of things you have tried. If your post gets buried, you may repost your question, otherwise, you may direct people to your question in a more active channel.
+Everyone within the community participates in answering questions, and even more learn by following the conversation. It’s unfair to expect specific people to answer you and may also result in your question going unanswered.
 
-&#10060; Do not post the same question in multiple channels.
-
-[rule-name]: # (public-help)
-
-### Help others by guiding them to the solution in a public 1:1 conversation
-&#9989; Our community values guiding a person to the solution because it empowers them with more practical skills to apply the next time they run into a problem. For more information, see our [How to Help Others Solve Coding Problems](https://www.theodinproject.com/guides/community/how_to_help) guide.
-
-&#10060; Do not provide the answer or intrude into a public 1:1 conversation with a different answer. If the guidance is incorrect, you may politely state that there might be some confusion and ask permission to help clarify the issue.
 
 [rule-name]: # (detailed-question)
 
-### Make it easy for others to help you by asking a detailed question
-&#9989; Ask detailed questions by following our [How to Ask Technical Questions](https://www.theodinproject.com/guides/community/how_to_ask) guide. Since your post will be fairly long, use shift + enter to add new lines between paragraphs. A detailed question should contain the following elements:
+### 3. Ask once and ask well
 
-- Link to the lesson/project in the curriculum
-- Your current code or pseudo code
-- Explain the issue/problem
-- Describe what you are expecting
-- Summarize what you have tried
+&#9989; Post your question in the most relevant channel and include relevant details such as:
 
-&#10060; Avoid asking low effort questions because it puts too much responsibility on others to properly guide you to the answer. For example:
+- A link to the lesson or project
+- Your code or pseudocode
+- What’s going wrong
+- What you expected to happen
+- What you’ve already tried
 
-- Not providing enough details or context
-- Asking questions that can be easily Googled or not doing your own research first
-- Posting multiple short messages in rapid succession because they are often incomplete sentences that make it hard for others understand the full situation.
+As your post will be fairly long, use shift + enter to add new lines between paragraphs.
 
-**We take this rule very seriously because repeatedly asking low effort questions causes a drain on our community of volunteers.**
+&#10060; Don’t post your question in multiple channels. Instead: Wait at least 30 minutes for a reply. Meanwhile, keep troubleshooting and edit your post with what you’ve tried. If your post gets buried, repost it or link to it from a more active channel.
+
+&#10060; Don’t ask low-effort questions. This includes:
+
+- Leaving out details or context
+- Asking something you could easily Google
+- Not researching first
+- Posting a lot of short messages in a row
+
+Instead: Try following the advice in [How to Ask Technical Questions](https://www.theodinproject.com/guides/community/how_to_ask) and [Help Yourself Before Asking Others](https://www.theodinproject.com/guides/community/before_asking)
+
+Low-effort questions require additional energy on both sides, to get to a good question and subsequently to an answer. Repeatedly asking low effort questions inhibits our volunteers from guiding other students.
+
+
+[rule-name]: # (public-help)
+
+### 4. Help by guiding
+
+&#9989; Help others by guiding them to the solution in a public 1:1 conversation
+
+&#10060; Don’t just give them the answer. Instead: Follow the advice in [How to Help Others Solve Coding Problems](https://www.theodinproject.com/guides/community/how_to_help)
+
+Guiding students to find answers themselves builds skills they’ll use the next time they’re stuck.
+
 
 [rule-name]: # (relevant-resources)
 
-### Share resources that are relevant to our curriculum
-&#9989; When sharing resources that are relevant to our curriculum, add surrounding context, such as where you are in the curriculum, what exactly you found helpful, a code example, etc. Remember that our curriculum is open source, so you are encouraged to make a pull request to add it to the curriculum.
+### 5. Only share relevant, safe resources
 
-&#10060; The following resources are not relevant to our curriculum and should not be posted. If you have extraordinary circumstances that you would like to be considered, you are welcome to message ModMail for permission:
+&#9989; Add context when sharing a link relevant to our curriculum, such as:
 
-- Link to a resource you created for personal or monetary gain
-- Request to have people fill out a survey
-- Link to join another server/community
-- Articles or blog posts on unrelated topics/languages
+- Where you are in the curriculum
+- Why you found it helpful
+- A code example
+
+&#9989; Contribute helpful assets to our open source curriculum via pull requests.
+
+&#10060; Don’t post:
+
+- Anything you made for personal or monetary gain
+- Surveys
+- Invitations to other servers or communities
+- Articles or blog posts about unrelated topics or languages
 - Fundraising or donation drives
 - Job posts or recruitment
 
-[rule-name]: # (modmail)
+Unsafe and irrelevant links mar the server’s reputation and distract students from their objective of finishing the curriculum. If you think your situation is an exception, message ModMail for permission first.
 
-### Report misconduct to ModMail
-&#9989; Use Modmail to report misconduct, private harassment by a community member, or if anyone makes you or others feel unsafe, uncomfortable, or unwelcome in our community.
-
-&#10060; Do not correct or confront another user about their misconduct. We know you mean well, but this will often make the situation worse.
 
 [rule-name]: # (respect)
 
-### Act professionally and treat everyone with respect
-&#9989; The culture of this community is very similar to the professional workplace messaging apps of our volunteer team. Learning how to respectfully interact with others from around the world will prepare you to interact with your future teammates.
+### 6. Act professionally and respectfully
 
-&#10060; We have zero tolerance for disrespect. Therefore, the following behaviors will result in a ban from our server:
+&#9989; Treat this server like a professional workplace chat.
 
-- Bigotry, such as racism, homophobia, hate speech, etc
+&#10060; Don’t jump into someone else’s 1:1 conversation with a different answer; following two helpers at once is often overwhelming. Instead: If you believe the guidance is wrong, politely say there might be some confusion and ask whether you can help clarify.
+
+&#10060; Don’t confront another user about their behavior yourself; this often makes the situation worse. Instead: Report it to ModMail
+
+&#10060; Don’t talk about potentially sensitive or harmful topics, such as:
+
+- Illegal activities
+- Politics
+- Religion
+- Relationships
+- Mental health
+- Medical conditions
+- Medicine
+- Home remedies
+
+&#10060; We have zero tolerance for disrespect. The following actions will get you banned:
+
+- Bigotry, such as racism, homophobia, hate speech
 - NSFW or other highly offensive images in posts, profile pictures, or username
 - Spamming multiple channels with the same or nonsensical messages (copypasta)
-- Disrespectful or targeted harassment, directed insults, naming & shaming
+- Harassment, directed insults, or naming and shaming
 - Aggressive arguments
-- Inciting drama, provoking/baiting other users, passive aggression
+- Inciting drama, baiting other users, or passive aggression
 - Unsolicited self-promotion
-- Piracy, links to pirated material, suggesting pirating intellectual property
+- Piracy, including linking or suggesting pirated material
 - Plagiarism
 - Doxxing
 - Trolling
-- Publicly arguing about receiving moderation after being asked to discuss privately through ModMail
-- Any other behavior deemed unacceptable and deserving of a ban by the moderation team, such as displaying a pattern of breaking our rules
+- Arguing in public about moderation after being asked to discuss it in ModMail
+- Anything else the moderation team decides deserves a ban, such as a pattern of breaking our rules
 
-[rule-name]: # (additional-expectations)
+Learning to communicate professionally and respectfully with people from around the world prepares you for a career filled with teamwork.
 
-### Additional Community Expectations
-Please read our [additional community expectations](https://www.theodinproject.com/guides/community/expectations) because it contains additional tips that improve the quality of our community.
 
-Our Core, Maintainer and Moderator teams are also subject to the rules. If you see any of our team members have inappropriate behavior, please report it to ModMail with a link to the post and brief explanation of the rule that has been broken. Please do not argue publicly, instead communicate privately through ModMail.
+[rule-name]: # (modmail)
 
-Please note that the entire TOP team has visibility on ModMail. If it makes you more comfortable, you may DM one member of the team with your concerns, or email the core team at theodinprojectcontact@gmail.com.
+### Reporting and moderation
+
+Message ModMail to report misconduct, private harassment, or anything that makes you or others feel unsafe, uncomfortable or unwelcome. See [#contact-moderators](https://discord.com/channels/505093832157691914/1059513837197459547) for how to use ModMail.
+
+Our Core, Maintainer and Moderator teams follow these rules too. If a team member behaves inappropriately, report it to ModMail with a link to the post and a brief note on which rule was broken. Please don’t argue about it in public. The whole team can see ModMail. You may also share your concerns to a limited audience by sending a DM to an individual team member or emailing the core team with your concerns at [theodinprojectcontact@gmail.com](mailto:theodinprojectcontact@gmail.com).
+
+When a rule is broken, moderators start with assuming good intentions. They’ll open with a conversation to explain the applicable community rules and calm any ongoing conflict. If a moderator contacts you, please don’t take personal offense or argue.
+
+Our [expectations for this community](https://www.theodinproject.com/guides/community/expectations) are higher than most Discord servers; We want this community to be friendly, safe and welcoming for everyone, regardless of level of experience, gender identity and expression, sexual orientation, disability, neurodivergence, personal appearance, body, race, ethnicity, age, religion, nationality, or any similar characteristic.
