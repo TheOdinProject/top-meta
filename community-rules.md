@@ -54,7 +54,7 @@ Everyone within the community participates in answering questions, and even more
 - What you expected to happen
 - What you’ve already tried
 
-As your post will be fairly long, use shift + enter to add new lines between paragraphs.
+As your post will be fairly long, use `shift + enter` to add new lines between paragraphs.
 
 &#10060; Don’t post your question in multiple channels. Instead: Wait at least 30 minutes for a reply. Meanwhile, keep troubleshooting and edit your post with what you’ve tried. If your post gets buried, repost it or link to it from a more active channel.
 
